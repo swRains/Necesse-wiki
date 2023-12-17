@@ -39,39 +39,39 @@ new Docute({
             children: [
                 {
                     title: '生物群落',
-                    link: '/guide/Biomes'
+                    link: '/guides/World/Biomes',
                 },
                 {
                     title: 'NPC',
-                    link: '/guide/NPCs'
+                    link: '/guides/World/NPCs'
                 },
                 {
                     title: '攻略',
-                    link: '/guide/Raiders'
+                    link: '/guides/World/Raiders'
                 },
                 {
                     title: '怪物',
-                    link: '/guide/Monsters'
+                    link: '/guides/World/Monsters'
                 },
                 {
                     title: '动物',
-                    link: '/guide/Animals'
+                    link: '/guides/World/Animals'
                 },
                 {
                     title: '小动物',
-                    link: '/guide/Critters'
+                    link: '/guides/World/Critters'
                 },
                 {
                     title: '掉落物',
-                    link: '/guide/Objects'
+                    link: '/guides/World/Objects'
                 },
                 {
                     title: '植物',
-                    link: '/guide/Plants'
+                    link: '/guides/World/Plants'
                 },
                 {
                     title: 'BOSS',
-                    link: '/guide/Bosses'
+                    link: '/guides/World/Bosses'
                 }
 
 
@@ -83,47 +83,50 @@ new Docute({
             children: [
                 {
                     title: '装备',
-                    link: '/guide/Equipment'
+                    link: '/guides/Items/Equipment'
                 },
                 {
                     title: '材料',
-                    link: '/guide/Materials'
+                    link: '/guides/Items/Materials'
                 },
                 {
                     title: '消耗品',
-                    link: '/guide/Consumables'
+                    link: '/guides/Items/Consumables'
                 },
                 {
                     title: '地面',
-                    link: '/guide/Tiles'
+                    link: '/guides/Items/Tiles'
                 },
                 {
                     title: '家具种植',
-                    link: '/guide/Objects'
+                    link: '/guides/Items/Objects'
                 },
                 {
                     title: '电路',
-                    link: '/guide/Wiring'
+                    link: '/guides/Items/Wiring'
                 },
                 {
                     title: '乱八七糟',
-                    link: '/guide/Miscellaneous'
+                    link: '/guides/Items/Miscellaneous'
                 },
             ]
         },
         {
-            title: 'Guide',
-            children: [
+            title: '多人游戏',
+            children:[
                 {
-                    title: 'Getting Started',
-                    link: '/guide/getting-started'
+                    title: '联机教程',
+                    link: '/guides/Multiplayer'
                 },
                 {
-                    title: 'Installation',
-                    link: '/guide/installation'
+                    title: '服务器',
+                    link: '/guides/Server'
                 }
+
             ]
+            
         },
+       
         // An external link
         {
             title: 'GitHub',
