@@ -1,4 +1,4 @@
-# 加入我们
+# 加入我们  
 我们欢迎所有期望加入翻译行动的玩家  
 如果您发现有漏翻译或错翻的地方，请向```iagoing@foxmail.com```指出  
 - [加入我们](#加入我们)
@@ -18,10 +18,10 @@
 
 ## 邮件要求
 如果您想参与翻译计划，您的邮件请遵循以下要求：  
-1、您的署名
-2、您的网站、主页等链接（非必须）
-3、翻译的网址
-4、翻译的内容附件（markdown格式）
+1、您的署名  
+2、您的网站、主页等链接（非必须）  
+3、翻译的网址  
+4、翻译的内容附件（markdown格式） 
 ## 附件要求
 附件应遵循以下规则：
 附件的所有图片名称应当与官网相同，具体步骤：
@@ -125,13 +125,17 @@ function debounce(func, wait, immediate) {
 
 默认支持的语言：
 
-<ul>
-  <li v-for="lang in builtinLanguages" :key="lang">
-    {{ lang }}
-  </li>
-</ul>
-
-你可以查看[高亮](/zh/options#highlight)选项添加更多语言。
+```
+markup
+xml
+html
+mathml
+svg
+css
+clike
+javascript
+js
+```
 
 ## Code Fence Options
 

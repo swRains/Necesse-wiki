@@ -7,6 +7,8 @@
       - [①通过下载](#通过下载)
       - [②通过Steam](#通过steam)
       - [③通过SteamCMD](#通过steamcmd)
+    - [运行服务器](#运行服务器)
+    - [配置服务器](#配置服务器)
     - [Windows文件位置](#windows文件位置)
   - [Docker搭建](#docker搭建)
     - [构建镜像：](#构建镜像)
@@ -21,7 +23,7 @@
 
 ## 运行要求
 CPU：2核  
-内存：2G  
+内存：2G以上(站长最高记录是10G，不过那张图有特别多的牲畜)  
 存储空间：大约200M  
 带宽：4人每Mbps
 ## 购买服务器
@@ -67,7 +69,16 @@ app_update 1169370 validate
 ```
 当该过程完成时，它会显示```"Success! App '1169370' fully installed."```然后，您可以通过输入```quit```关闭 Steam CMD：
 
-
+### 运行服务器
+在Steam库里右键 - 管理 - 浏览本地文件 ，进入服务器目录。  
+双击StartServer.bat开启服务器  
+![Necesse Dedicated Server](../images/Server/3.png)  
+### 配置服务器
+这里选择存档（第一次开启会创建时间，你可以把你自己的存档放[存档目录](/guides/Server.md#windows文件位置)）  
+<font color=red>端口范围在1-65525之间，建议10000以上的端口，不要用一千以内的端口。</font>  
+Custom server option  选N就会按照上次运行的配置运行  
+  
+![Necesse Dedicated Server](../images/Server/4.png)
 ### Windows文件位置
 默认情况下
 
@@ -210,9 +221,8 @@ EOL
 每次服务器启动时，您都必须回答几个问题。
 
 要在没有交互的情况下启动服务器，请使用 -world [保存名称] 参数。
-```
-例子： ./StartServer-nogui.sh -world SaveGame1
-```
+
+例子：``` ./StartServer-nogui.sh -world SaveGame1```
 ### 端口
 默认端口为：```14159```
 
