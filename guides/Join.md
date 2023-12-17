@@ -1,6 +1,21 @@
 # 加入我们
 我们欢迎所有期望加入翻译行动的玩家  
 如果您发现有漏翻译或错翻的地方，请向```iagoing@foxmail.com```指出  
+- [加入我们](#加入我们)
+  - [邮件要求](#邮件要求)
+  - [附件要求](#附件要求)
+  - [文档规范](#文档规范)
+  - [链接](#链接)
+    - [内部链接](#内部链接)
+    - [外部链接](#外部链接)
+  - [任务列表](#任务列表)
+  - [代码高亮 Highlighting](#代码高亮-highlighting)
+  - [Code Fence Options](#code-fence-options)
+  - [代码框中某行高亮显示](#代码框中某行高亮显示)
+  - [Adding Vue Mixin](#adding-vue-mixin)
+  - [使用 Mermaid](#使用-mermaid)
+  - [HTML in Markdown](#html-in-markdown)
+
 ## 邮件要求
 如果您想参与翻译计划，您的邮件请遵循以下要求：  
 1、您的署名
