@@ -129,5 +129,8 @@ new Docute({
             title: 'GitHub',
             link: 'https://github.com/egoist/docute'
         }
-    ]
+    ],
+    plugins: [
+        searchBar(SearchResult)
+    ],
  });
