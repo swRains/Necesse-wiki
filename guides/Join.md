@@ -19,9 +19,11 @@
 ## 邮件要求
 如果您想参与翻译计划，您的邮件请遵循以下要求：  
 1、您的署名  
-2、您的网站、主页等链接（非必须）  
+2、您的网站、主页等链接（非必须，用以悬挂致谢）  
 3、翻译的网址  
-4、翻译的内容附件（markdown格式） 
+4、翻译的内容附件（markdown格式）
+5、图片等其他附件 (请统一放在images文件夹下)
+6、附件整体打包为压缩包
 ## 附件要求
 附件应遵循以下规则：
 附件的所有图片名称应当与官网相同，具体步骤：
@@ -29,7 +31,11 @@
 ```
 <a href="/Inventory" title="Inventory"><img alt="Inventory Nav Icon.png" src="/images/7/70/Inventory_Nav_Icon.png" decoding="async" width="32" height="32"></a>
 ```
-其中Inventory_Nav_Icon.png就是本图片的名称。
+其中Inventory_Nav_Icon.png就是本图片的名称。  
+图片应当统一放在images文件夹下，在markdown中调用链接应当为
+```
+[示例图片](/images/Inventory_Nav_Icon.png)
+```
   
 我们遵循统一的命名规则以确保网页的连贯性。
 
