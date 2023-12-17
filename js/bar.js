@@ -121,16 +121,27 @@ new Docute({
                 {
                     title: '服务器',
                     link: '/guides/Server'
+                },
+                {
+                    title: '联机工具与方法',
+                    link: '/guides/Connect'
+                },
+                {
+                    title: '游戏指令大全',
+                    link: '/guides/Command'
                 }
 
             ]
             
         },
        
-        // An external link
         {
-            title: 'GitHub',
-            link: 'https://github.com/egoist/docute'
+            title: '加入我们',
+            link: '/guides/Join'
+        },
+        {
+            title: '致谢',
+            link: '/Thanks'
         }
     ],
     plugins: [

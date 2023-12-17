@@ -1,68 +1,244 @@
-| 命令 | 权限 | 用途说明 | 作弊模式 |
-|---------|-------------|--------|--------|
-| `/help [<page/command>]` | 玩家 | 列出所有命令或提供特定命令的信息 | |
-| `/playtime` | 玩家 | 显示你在服务器上的当前游戏时间 | |
-| `/me <action>` | 玩家 | 向整个服务器宣布一个动作 | |
-| `/w, /whisper or /pm <player> <message>` | 玩家 | 给另一个玩家发私信 | |
-| `/mypermissions` | 玩家 | 显示你的权限级别 | |
-| `/die` | 玩家 | 自杀 | |
-| `/performance [<includeServer>] [<seconds>]` | 玩家 | 记录服务器性能一段时间并创建结果文件 | |
-| `/createteam` | 玩家 | 创建一个新的团队 | |
-| `/leaveteam` | 玩家 | 离开当前团队 | |
-| `/invite <player>` | 玩家 | 邀请一个玩家加入你的团队 | |
-| `/network` | 主机/服务器 | 显示本次会话的网络使用情况 | |
-| `/players` | 主机/服务器 | 列出当前在线玩家 | |
-| `/playernames` | 主机/服务器 | 列出所有认证及其名称 | |
-| `/levels` | 主机/服务器 | 列出当前加载的关卡 | |
-| `/save` | 主机/服务器 | 保存所有数据 | |
-| `/kick <player> [<message/reason>]` | 主机/服务器 | 将玩家从服务器踢出 | |
-| `/say <message>` | 主机/服务器 | 以服务器身份在聊天中发言 | |
-| `/mow <range> [<chance>]` | 管理员 | 在范围内以一定几率除去地面上的草 | ✓ |
-| `/time <set/add> [<amount>]` | 管理员 | 设置/增加世界时间（可以使用（中）午或（中）夜） | ✓ |
-| `/clearall [<global>]` | 管理员 | 清除所有实体 | ✓ |
-| `/clearmobs [<global> [<type>]]` | 管理员 | 清除所有怪物或指定类型的怪物（在你的关卡或所有加载的关卡上） | ✓ |
-| `/clearevents [<global> [<type>]]` | 管理员 | 清除你的关卡或所有加载的关卡上的所有事件 | ✓ |
-| `/tp [<player1>] <player2/home/death/spawn>` | 管理员 | 将玩家1传送到玩家2或其他位置 | ✓ |
-| `/print <message>` | 管理员 | 在聊天中打印消息 | |
-| `/give [<player>] <item> [<amount>]` | 管理员 | 给玩家物品 | ✓ |
-| `/buff [<player>] <buff> [<seconds>]` | 管理员 | 给玩家添加增益效果 | ✓ |
-| `/clearbuff [<player>] <buff>` | 管理员 | 移除玩家身上的增益效果 | ✓ |
-| `/reveal [<player>]` | 管理员 | 展示客户端当前关卡 | ✓ |
-| `/setisland [<player>] <islandX> <islandY> [<dimension>]` | 管理员 | 更改玩家的岛屿 | ✓ |
-| `/setdimension [<player>] <dimension>` | 管理员 | 更改玩家的维度 | ✓ |
-| `/hp [<player>] <health>` | 管理员 | 设置玩家的生命值 | ✓ |
-| `/maxhp [<player>] <health>` | 管理员 | 设置玩家的最大生命值 | ✓ |
-| `/mana [<player>] <mana>` | 管理员 | 设置玩家的魔法值 | ✓ |
-| `/maxmana [<player>] <mana>` | 管理员 | 设置玩家的最大魔法值 | ✓ |
-| `/hunger [<player>] <hunger>` | 管理员 | 设置玩家的饥饿值百分比 | ✓ |
-| `/deleteplayer <authentication/fullname>` | 管理员 | 删除玩家在保存玩家文件夹中的文件 | |
-| `/settings <list/setting> [<arg>]` | 管理员 | 更改服务器世界设置 | |
-| `/difficulty <list/difficulty>` | 管理员 | 更改难度设置 | |
-| `/deathpenalty <list/penalty>` | 管理员 | 更改死亡惩罚设置 | |
-| `/raids <list/frequency>` | 管理员 | 更改袭击频率设置 | |
-| `/pausewhenempty <0/1>` | 管理员 | 启用/禁用玩家离线时暂停游戏设置 | |
-| `/maxlatency <seconds>` | 管理员 | 设置客户端超时前的最大延迟 | |
-| `/ban <authentication/name>` | 管理员 | 封禁玩家 | |
-| `/unban <authentication/name>` | 管理员 | 解除封禁 | |
-| `/bans` | 管理员 | 列出所有当前封禁的玩家 | |
-| `/rain [<islandX> <islandY> <dimension>] <start/clear>` | 管理员 | 设置关卡的雨 | ✓ |
-| `/enchant <clear/set/random> [<slot>] [<enchantID>]` | 管理员 | 清除、设置或随机给予附魔 | ✓ |
-| `/copyitem [<slot>]` | 管理员 | 复制物品及其所有数据 | ✓ |
-| `/healmobs <health> [<range>] [<filter>]` | 管理员 | 治愈你周围的怪物 | ✓ |
-| `/copyplayer <from> <to>` | 管理员 | 复制玩家的物品栏、位置和生命值到另一个玩家 | ✓ |
-| `/demo [<player>] [<setup> [<forceNew>]] [<builds>]` | 管理员 | 为玩家设置世界和/或构建 | ✓ |
-| `/getteam <player>` | 管理员 | 获取玩家当前的团队 | |
-| `/clearteam <player>` | 管理员 | 从当前团队中移除玩家 | |
-| `/setteam <player> <team>` | 管理员 | 设置玩家的团队 | |
-| `/setteamowner <team> <player>` | 管理员 | 设置团队所有者，新所有者必须已经是团队成员 | |
-| `/motd <clear/get/message>` | 管理员 | 设置或清除每日消息 | |
-| `/changename <player> <name>` | 管理员 | 更改玩家的名称 | |
-| `/sharemap [<from>] <to>` | 管理员 | 将你的地图探索分享给另一个玩家 | ✓ |
-| `/stop, /exit or /quit` | Owner | 保存并停止服务器 | |
-| `/password [<password>]` | Owner | 设置服务器密码，留空表示没有密码 | |
-| `/permissions <list/set/get> [<authentication/name> [<permissions>]]` | Owner | 设置玩家权限 | |
-| `/regen [<islandX> <islandY> <dimension>] [<biome>] [<seeded>]` | Owner | 重置整个关卡 | ✓ |
-| `/allowcheats` | Owner | 在此世界中启用/允许作弊（不可逆转） | ✓ |
-| `/itemgnd [<slot>] <set/get/clear> [<key> [<value>]]` | Owner | 获取或设置物品GND数据 | ✓ |
-| `/jobsearchrange <range>` | Owner | 设置定居者的工作搜索范围 | |
-| `/language <language>` | Server | 设置服务器语言设置 | |
+# 服务器
+- [服务器](#服务器)
+  - [运行要求](#运行要求)
+  - [购买服务器](#购买服务器)
+  - [Windows服务器](#windows服务器)
+    - [下载服务器文件](#下载服务器文件)
+      - [①通过下载](#通过下载)
+      - [②通过Steam](#通过steam)
+      - [③通过SteamCMD](#通过steamcmd)
+    - [Windows文件位置](#windows文件位置)
+  - [Docker搭建](#docker搭建)
+    - [构建镜像：](#构建镜像)
+    - [创建一个世界](#创建一个世界)
+    - [相关命令](#相关命令)
+  - [Linux服务器](#linux服务器)
+    - [创建将运行服务器的用户。](#创建将运行服务器的用户)
+    - [下载并解压SteamCMD](#下载并解压steamcmd)
+    - [端口](#端口)
+    - [Linux文件位置](#linux文件位置)
+
+
+## 运行要求
+CPU：2核  
+内存：2G  
+存储空间：大约200M  
+带宽：4人每Mbps
+## 购买服务器
+![雨云](https://app.rainyun.com/img/icons/favicon-32x32.png) [雨云](https://www.rainyun.com/MTQwMTI2_) 优惠码：```MTQwMTI2```  
+![腾讯云](https://cloudcache.tencent-cloud.com/qcloud/app/resource/ac/favicon.ico)  [腾讯云](https://curl.qcloud.com/EvkthMqu)  
+![阿里云](
+https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico) [阿里云](https://www.aliyun.com/)
+## Windows服务器
+### 下载服务器文件
+下载服务器文件可以通过三种不同的方式执行，它们是：
+
+#### ①通过下载
+
+您可以下载位于的服务器文件 [https://necessegame.com/server/](https://necessegame.com/server/)
+
+#### ②通过Steam
+
+导航至您的 Steam 库并筛选工具  
+![搜索Necesse](../images/Server/1.png)
+
+选择“Necesse Dedicated Server”；然后点击安装  
+![Necesse Dedicated Server](../images/Server/2.png)
+
+#### ③通过SteamCMD
+
+请参阅 Valve 的开发者 wiki，了解如何下载和安装 SteamCMD：
+
+https://developer.valvesoftware.com/wiki/SteamCMD
+
+安装后，双击安装文件夹中的 Steamcmd.exe 运行 SteamCMD。
+
+在 SteamCMD 窗口中，输入以下内容：
+
+```
+login anonymous
+```
+
+要更改专用服务器的安装位置，请使用命令```force_install_dir C:\Necesse``` 这将告诉 SteamCMD 将 Necesse 专用服务器文件安装到 PC C 驱动器上名为 Necesse 的文件夹中
+
+接下来，通过键入以下内容将服务器文件下载到指定文件夹：
+```
+app_update 1169370 validate
+```
+当该过程完成时，它会显示```"Success! App '1169370' fully installed."```然后，您可以通过输入```quit```关闭 Steam CMD：
+
+
+### Windows文件位置
+默认情况下
+
+服务器配置文件被命名为“server.cfg”。位于 ```C:\Users\%USERPROFILE%\AppData\Roaming\Necesse\cfg```
+
+世界配置文件名为“worldSettings.cfg”。位于 ```C:\Users\%USERPROFILE%\AppData\Roaming\Necesse\saves\YourWorldNamehere.zip```
+
+存档是根据世界名称命名的.zip，位于```C:\Users\%USERPROFILE%\AppData\Roaming\Necesse\saves\```
+
+服务器日志位于 ```C:\Users\%USERPROFILE%\AppData\Roaming\Necesse\logs```
+
+
+
+
+## Docker搭建
+在空目录中创建 Dockerfile：
+```
+# Use a base image
+FROM debian:bullseye-slim
+
+# Add user 'necesse', don't run stuff as root!!
+ARG user=necesse
+ARG group=necesse
+ARG uid=1000
+ARG gid=1000
+
+RUN groupadd -g ${gid} ${group}
+RUN useradd -u ${uid} -g ${group} -s /bin/bash -m ${user}
+
+RUN dpkg --add-architecture i386
+RUN apt update; apt install -y ca-certificates-java
+RUN apt update; apt install -y lib32gcc-s1 curl openjdk-17-jre-headless
+
+# Download and extract SteamCMD
+RUN mkdir -p /Steamapps
+RUN curl -sqL https://Steamcdn-a.akamaihd.net/client/installer/Steamcmd_linux.tar.gz | tar zxvf - -C /Steamapps
+WORKDIR /Steamapps
+
+# Create the update_necesse.txt file
+RUN echo '@ShutdownOnFailedCommand 1' >> update_necesse.txt \
+    && echo '@NoPromptForPassword 1' >> update_necesse.txt \
+    && echo 'force_install_dir /app/' >> update_necesse.txt \
+    && echo 'login anonymous' >> update_necesse.txt \
+    && echo 'app_update 1169370 validate' >> update_necesse.txt \
+    && echo 'quit' >> update_necesse.txt
+
+RUN echo $(date) && ./Steamcmd.sh +runscript update_necesse.txt
+
+# Saves will be available under /root/.config/Necesse/saves
+RUN chown -R 1000:1000 /app
+RUN mkdir -p /home/necesse/.config/Necesse
+RUN chown -R 1000:1000 /home/necesse
+
+USER ${uid}:${gid}
+
+# Set the working directory and create entrypoint.sh
+WORKDIR /app
+RUN echo '#!/bin/sh' > entrypoint.sh && \
+    echo 'java -jar Server.jar -nogui -world "$WORLD_NAME"' >> entrypoint.sh && \
+    chmod +x entrypoint.sh
+
+# Set the entry point for the container
+CMD ["./entrypoint.sh"]
+```
+### 构建镜像：
+```
+docker build -t necesse .
+```
+### 创建一个世界
+运行容器一次以创建一个世界：
+```
+docker run --rm -it -v necesse_data:/home/necesse.config/Necesse necesse java -jar Server.jar -nogui
+```
+请记住世界名！
+### 相关命令
+```
+docker stop necesse
+docker rm necesse
+docker build -t necesse .
+docker run -d --name necesse \
+  -e WORLD_NAME=my_world\
+  -p 14159:14159/udp \
+  -v ./data:/home/necesse/.config/Necesse \
+  --restart always \
+  necesse
+```
+## Linux服务器
+Linux 专用服务器设置说明
+在基于 Debian 的发行版上设置专用服务器的说明。
+
+我们将使用 SteamCMD 来安装和更新服务器。
+
+使用以下命令以 root 或具有 sudo 权限的用户身份安装 SteamCMD 依赖项。
+
+```
+sudo dpkg --add-architecture i386 
+sudo apt update
+sudo apt install -y lib32gcc1 
+sudo apt install -y lib32gcc-s1
+```
+
+### 创建将运行服务器的用户。
+```
+sudo useradd --create-home necesse
+```
+
+更改为必要用户并转到其主目录，我们将在其中安装 Steam 和服务器文件。
+
+```
+su - necesse ; cd /home/necesse
+```
+### 下载并解压SteamCMD
+```
+curl -sqL "https://Steamcdn-a.akamaihd.net/client/installer/Steamcmd_linux.tar.gz" | tar zxvf -
+```
+创建将管理 SteamCMD 的配置文件
+```
+cat >$HOME/update_necesse.txt <<'EOL'
+@ShutdownOnFailedCommand 1 //如果更新多个服务器，则设置为 0。
+@NoPromptForPassword 1
+force_install_dir /home/neesse/
+login anonymous // 匿名登录
+app_update 1169370 validate
+quit
+EOL
+```
+运行 SteamCMD 并将其指向配置文件以安装和更新服务器。
+```
+./home/necesse/Steamcmd.sh +runscript $HOME/update_necesse.txt
+```
+这将需要几分钟的时间。 SteamCMD 将首先更新自身，然后下载服务器文件。
+
+此命令还将更新服务器文件。可以将其作为 cron  任务运行，也可以根据需要手动运行。
+
+
+您现在可以使用以下命令启动 Necesse 服务器
+```
+./StartServer-nogui.sh
+```
+每次服务器启动时，您都必须回答几个问题。
+
+要在没有交互的情况下启动服务器，请使用 -world [保存名称] 参数。
+```
+例子： ./StartServer-nogui.sh -world SaveGame1
+```
+### 端口
+默认端口为：```14159```
+
+您需要进行端口转发并找到您的 IP 地址以提供给朋友。
+
+[联机工具与方法]()
+
+### Linux文件位置
+默认情况下
+
+服务器配置文件被命名为“server.cfg”。并位于```~/.config/Necesse/cfg```
+
+世界配置文件名为“worldSettings.cfg”。并位于```~/.config/Necesse/saves/YourWorldNamehere.zip```
+
+保存数据是根据世界名命名的.zip，位于```~/.config/Necesse/saves```
+
+服务器日志位于```~/.config/Necesse/logs```
+
+您还可以使用 shell 脚本文件中的 -localdir 参数将配置强制写入游戏目录。
+
+例子： ```./StartServer-nogui.sh -localdir```
+  
+
+
+
+
+
+
+
