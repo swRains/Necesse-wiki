@@ -139,7 +139,7 @@ new Docute({
             children:[
                 {
                     title: '成就',
-                    link: '/guides/Achievement'
+                    link: '/guides/Others/Achievement'
                 },
                 {
                     title: '公益服务器',
