@@ -33,37 +33,37 @@
 
 ## 树苗
 
-![苹果树苗](/images/Items/applesapling.png) [苹果树苗](/guides/Items/applesapling.md) •
+![苹果树苗](/images/items/applesapling.png) [苹果树苗](/guides/Items/applesapling.md) •
  
-![香蕉树苗](/images/Items/bananasapling.png) [香蕉树苗](/guides/Items/bananasapling.md) •
-![黑莓丛树苗](/images/Items/blackberrybushsapling.png) [黑莓丛树苗](/guides/Items/blackberrybushsapling.md) •
-![蓝莓丛树苗](/images/Items/blueberrybushsapling.png) [蓝莓丛树苗](/guides/Items/blueberrybushsapling.md) •
-![仙人掌](/images/Items/cactus.png) [仙人掌](/guides/Items/cactus.md) •
-![椰子树苗](/images/Items/coconutsapling.png) [椰子树苗](/guides/Items/coconutsapling.md) •
-![柠檬树苗](/images/Items/lemonsapling.png) [柠檬树苗](/guides/Items/lemonsapling.md) •
-![橡树苗](/images/Items/oaksapling.png) [橡树苗](/guides/Items/oaksapling.md) •
-![棕榈树苗](/images/Items/palmsapling.png) [棕榈树苗](/guides/Items/palmsapling.md) •
-![松树苗](/images/Items/pinesapling.png) [松树苗](/guides/Items/pinesapling.md) •
-![云杉树苗](/images/Items/sprucesapling.png) [云杉树苗](/guides/Items/sprucesapling.md) •
-![柳树苗](/images/Items/willowsapling.png) [柳树苗](/guides/Items/willowsapling.md)
+![香蕉树苗](/images/items/bananasapling.png) [香蕉树苗](/guides/Items/bananasapling.md) •
+![黑莓丛树苗](/images/items/blackberrybushsapling.png) [黑莓丛树苗](/guides/Items/blackberrybushsapling.md) •
+![蓝莓丛树苗](/images/items/blueberrybushsapling.png) [蓝莓丛树苗](/guides/Items/blueberrybushsapling.md) •
+![仙人掌](/images/items/cactus.png) [仙人掌](/guides/Items/cactus.md) •
+![椰子树苗](/images/items/coconutsapling.png) [椰子树苗](/guides/Items/coconutsapling.md) •
+![柠檬树苗](/images/items/lemonsapling.png) [柠檬树苗](/guides/Items/lemonsapling.md) •
+![橡树苗](/images/items/oaksapling.png) [橡树苗](/guides/Items/oaksapling.md) •
+![棕榈树苗](/images/items/palmsapling.png) [棕榈树苗](/guides/Items/palmsapling.md) •
+![松树苗](/images/items/pinesapling.png) [松树苗](/guides/Items/pinesapling.md) •
+![云杉树苗](/images/items/sprucesapling.png) [云杉树苗](/guides/Items/sprucesapling.md) •
+![柳树苗](/images/items/willowsapling.png) [柳树苗](/guides/Items/willowsapling.md)
 
 ## 制作站
 
-![高级工作站](/images/Items/advancedworkstation.png) [高级工作站](/guides/Items/advancedworkstation.md) •
-![炼金台](/images/Items/alchemytable.png) [炼金台](/guides/Items/alchemytable.md) •
-![蜂箱](/images/Items/apiary.png) [蜂箱](/guides/Items/apiary.md) •
-![木工工作台](/images/Items/carpentersbench.png) [木工工作台](/guides/Items/carpentersbench.md) •
-![奶酪压榨机](/images/Items/cheesepress.png) [奶酪压榨机](/guides/Items/cheesepress.md) •
-![堆肥箱](/images/Items/compostbin.png) [堆肥箱](/guides/Items/compostbin.md) •
-![烹饪锅](/images/Items/cookingpot.png) [烹饪锅](/guides/Items/cookingpot.md) •
-![烹饪站](/images/Items/cookingstation.png) [烹饪站](/guides/Items/cookingstation.md) •
-![恶魔工作站](/images/Items/demonicworkstation.png) [恶魔工作站](/guides/Items/demonicworkstation.md) •
-![堕落工作站](/images/Items/fallenworkstation.png) [堕落工作站](/guides/Items/fallenworkstation.md) •
-![锻造炉](/images/Items/forge.png) [锻造炉](/guides/Items/forge.md) •
-![谷物磨坊](/images/Items/grainmill.png) [谷物磨坊](/guides/Items/grainmill.md) •
-![铁砧](/images/Items/ironanvil.png) [铁砧](/guides/Items/ironanvil.md) •
-![烘烤站](/images/Items/roastingstation.png) [烘烤站](/guides/Items/roastingstation.md) •
-![工作站](/images/Items/workstation.png) [工作站](/guides/Items/workstation.md)
+![高级工作站](/images/items/advancedworkstation.png) [高级工作站](/guides/Items/advancedworkstation.md) •
+![炼金台](/images/items/alchemytable.png) [炼金台](/guides/Items/alchemytable.md) •
+![蜂箱](/images/items/apiary.png) [蜂箱](/guides/Items/apiary.md) •
+![木工工作台](/images/items/carpentersbench.png) [木工工作台](/guides/Items/carpentersbench.md) •
+![奶酪压榨机](/images/items/cheesepress.png) [奶酪压榨机](/guides/Items/cheesepress.md) •
+![堆肥箱](/images/items/compostbin.png) [堆肥箱](/guides/Items/compostbin.md) •
+![烹饪锅](/images/items/cookingpot.png) [烹饪锅](/guides/Items/cookingpot.md) •
+![烹饪站](/images/items/cookingstation.png) [烹饪站](/guides/Items/cookingstation.md) •
+![恶魔工作站](/images/items/demonicworkstation.png) [恶魔工作站](/guides/Items/demonicworkstation.md) •
+![堕落工作站](/images/items/fallenworkstation.png) [堕落工作站](/guides/Items/fallenworkstation.md) •
+![锻造炉](/images/items/forge.png) [锻造炉](/guides/Items/forge.md) •
+![谷物磨坊](/images/items/grainmill.png) [谷物磨坊](/guides/Items/grainmill.md) •
+![铁砧](/images/items/ironanvil.png) [铁砧](/guides/Items/ironanvil.md) •
+![烘烤站](/images/items/roastingstation.png) [烘烤站](/guides/Items/roastingstation.md) •
+![工作站](/images/items/workstation.png) [工作站](/guides/Items/workstation.md)
 ## 家具
 
 ![Armor Stand](/images/web/Armor_Stand.png) [盔甲架](/guides/Items/armorstand.md) •
@@ -88,30 +88,30 @@
 
 ## 墙壁和门
 
-![砖墙](/images/Items/brickwall.png) [砖墙](/guides/Items/brickwall.md) •
-![深层砂岩墙](/images/Items/deepsandstonewall.png) [深层砂岩墙](/guides/Items/deepsandstonewall.md) •
-![深层雪石墙](/images/Items/deepsnowstonewall.png) [深层雪石墙](/guides/Items/deepsnowstonewall.md) •
-![深层岩墙](/images/Items/deepstonewall.png) [深层岩墙](/guides/Items/deepstonewall.md) •
-![深泽岩墙](/images/Items/deepswampstonewall.png) [深泽岩墙](/guides/Items/deepswampstonewall.md) •
-![地牢墙](/images/Items/dungeonwall.png) [地牢墙](/guides/Items/dungeonwall.md) •
-![冰墙](/images/Items/icewall.png) [冰墙](/guides/Items/icewall.md) •
-![黑曜石墙](/images/Items/obsidianwall.png) [黑曜石墙](/guides/Items/obsidianwall.md) •
-![棕榈墙](/images/Items/palmwall.png) [棕榈墙](/guides/Items/palmwall.md) •
-![松木墙](/images/Items/pinewall.png) [松木墙](/guides/Items/pinewall.md) •
-![砂岩墙](/images/Items/sandstonewall.png) [砂岩墙](/guides/Items/sandstonewall.md) •
-![雪石墙](/images/Items/snowstonewall.png) [雪石墙](/guides/Items/snowstonewall.md) •
-![石墙](/images/Items/stonewall.png) [石墙](/guides/Items/stonewall.md) •
-![沼泽石墙](/images/Items/swampstonewall.png) [沼泽石墙](/guides/Items/swampstonewall.md) •
-![木墙](/images/Items/woodwall.png) [木墙](/guides/Items/woodwall.md)
+![砖墙](/images/items/brickwall.png) [砖墙](/guides/Items/brickwall.md) •
+![深层砂岩墙](/images/items/deepsandstonewall.png) [深层砂岩墙](/guides/Items/deepsandstonewall.md) •
+![深层雪石墙](/images/items/deepsnowstonewall.png) [深层雪石墙](/guides/Items/deepsnowstonewall.md) •
+![深层岩墙](/images/items/deepstonewall.png) [深层岩墙](/guides/Items/deepstonewall.md) •
+![深泽岩墙](/images/items/deepswampstonewall.png) [深泽岩墙](/guides/Items/deepswampstonewall.md) •
+![地牢墙](/images/items/dungeonwall.png) [地牢墙](/guides/Items/dungeonwall.md) •
+![冰墙](/images/items/icewall.png) [冰墙](/guides/Items/icewall.md) •
+![黑曜石墙](/images/items/obsidianwall.png) [黑曜石墙](/guides/Items/obsidianwall.md) •
+![棕榈墙](/images/items/palmwall.png) [棕榈墙](/guides/Items/palmwall.md) •
+![松木墙](/images/items/pinewall.png) [松木墙](/guides/Items/pinewall.md) •
+![砂岩墙](/images/items/sandstonewall.png) [砂岩墙](/guides/Items/sandstonewall.md) •
+![雪石墙](/images/items/snowstonewall.png) [雪石墙](/guides/Items/snowstonewall.md) •
+![石墙](/images/items/stonewall.png) [石墙](/guides/Items/stonewall.md) •
+![沼泽石墙](/images/items/swampstonewall.png) [沼泽石墙](/guides/Items/swampstonewall.md) •
+![木墙](/images/items/woodwall.png) [木墙](/guides/Items/woodwall.md)
 
 ## 围栏和门
 
-![铁围栏](/images/Items/ironfence.png) [铁围栏](/guides/Items/ironfence.md) •
-![铁围栏门](/images/Items/ironfencegate.png) [铁围栏门](/guides/Items/ironfencegate.md) •
-![石围栏](/images/Items/stonefence.png) [石围栏](/guides/Items/stonefence.md) •
-![石围栏门](/images/Items/stonefencegate.png) [石围栏门](/guides/Items/stonefencegate.md) •
-![木围栏](/images/Items/woodfence.png) [木围栏](/guides/Items/woodfence.md) •
-![木围栏门](/images/Items/woodfencegate.png) [木围栏门](/guides/Items/woodfencegate.md)
+![铁围栏](/images/items/ironfence.png) [铁围栏](/guides/Items/ironfence.md) •
+![铁围栏门](/images/items/ironfencegate.png) [铁围栏门](/guides/Items/ironfencegate.md) •
+![石围栏](/images/items/stonefence.png) [石围栏](/guides/Items/stonefence.md) •
+![石围栏门](/images/items/stonefencegate.png) [石围栏门](/guides/Items/stonefencegate.md) •
+![木围栏](/images/items/woodfence.png) [木围栏](/guides/Items/woodfence.md) •
+![木围栏门](/images/items/woodfencegate.png) [木围栏门](/guides/Items/woodfencegate.md)
 
 
 ## 陷阱
@@ -142,28 +142,28 @@
 
 ## 杂项物品
 
-![隐形旗帜架](/images/Items/bannerstandinvisible.png) [隐形旗帜架](/guides/Items/bannerstand.md) •
-![营火](/images/Items/campfire.png) [营火](/guides/Items/campfire.md) •
-![香蒲](/images/Items/cattail.png) [香蒲](/guides/Items/cattail.md) •
-![深层梯子下](/images/Items/deepladderdown.png) [深层梯子下](/guides/Items/deepladderdown.md) •
-![堕落祭坛](/images/Items/fallenaltar.png) [堕落```markdown
+![隐形旗帜架](/images/items/bannerstandinvisible.png) [隐形旗帜架](/guides/Items/bannerstand.md) •
+![营火](/images/items/campfire.png) [营火](/guides/Items/campfire.md) •
+![香蒲](/images/items/cattail.png) [香蒲](/guides/Items/cattail.md) •
+![深层梯子下](/images/items/deepladderdown.png) [深层梯子下](/guides/Items/deepladderdown.md) •
+![堕落祭坛](/images/items/fallenaltar.png) [堕落```markdown
 祭坛](/guides/Items/fallenaltar.md) •
-![饲料槽](/images/Items/feedingtrough.png) [饲料槽](/guides/Items/feedingtrough.md) •
-![家园石](/images/Items/homestone.png) [家园石](/guides/Items/homestone.md) •
-![梯子下](/images/Items/ladderdown.png) [梯子下](/guides/Items/ladderdown.md) •
-![皮革地毯](/images/Items/leathercarpet.png) [皮革地毯](/guides/Items/leathercarpet.md) •
-![音乐播放器](/images/Items/musicplayer.png) [音乐播放器](/guides/Items/musicplayer.md) •
-![定居点旗帜](/images/Items/settlementflag.png) [定居点旗帜](/guides/Items/settlementflag.md) •
-![TNT](/images/Items/tnt.png) [TNT](/guides/Items/tnt.md) •
-![训练假人](/images/Items/trainingdummy.png) [训练假人](/guides/Items/trainingdummy.md) •
-![水草](/images/Items/watergrass.png) [水草](/guides/Items/watergrass.md) •
-![导航石](/images/Items/waystone.png) [导航石](/guides/Items/waystone.md) •
-![羊毛地毯](/images/Items/woolcarpet.png) [羊毛地毯](/guides/Items/woolcarpet.md)
+![饲料槽](/images/items/feedingtrough.png) [饲料槽](/guides/Items/feedingtrough.md) •
+![家园石](/images/items/homestone.png) [家园石](/guides/Items/homestone.md) •
+![梯子下](/images/items/ladderdown.png) [梯子下](/guides/Items/ladderdown.md) •
+![皮革地毯](/images/items/leathercarpet.png) [皮革地毯](/guides/Items/leathercarpet.md) •
+![音乐播放器](/images/items/musicplayer.png) [音乐播放器](/guides/Items/musicplayer.md) •
+![定居点旗帜](/images/items/settlementflag.png) [定居点旗帜](/guides/Items/settlementflag.md) •
+![TNT](/images/items/tnt.png) [TNT](/guides/Items/tnt.md) •
+![训练假人](/images/items/trainingdummy.png) [训练假人](/guides/Items/trainingdummy.md) •
+![水草](/images/items/watergrass.png) [水草](/guides/Items/watergrass.md) •
+![导航石](/images/items/waystone.png) [导航石](/guides/Items/waystone.md) •
+![羊毛地毯](/images/items/woolcarpet.png) [羊毛地毯](/guides/Items/woolcarpet.md)
 
 ## 照明
 
-![火焰圣杯](/images/Items/firechalice.png) [火焰圣杯](/guides/Items/firechalice.md) •
-![金灯](/images/Items/goldlamp.png) [金灯](/guides/Items/goldlamp.md) •
-![铁灯](/images/Items/ironlamp.png) [铁灯](/guides/Items/ironlamp.md) •
-![火炬](/images/Items/torch.png) [火炬](/guides/Items/torch.md) •
-![墙上火炬](/images/Items/walltorch.png) [墙上火炬](/guides/Items/walltorch.md)
+![火焰圣杯](/images/items/firechalice.png) [火焰圣杯](/guides/Items/firechalice.md) •
+![金灯](/images/items/goldlamp.png) [金灯](/guides/Items/goldlamp.md) •
+![铁灯](/images/items/ironlamp.png) [铁灯](/guides/Items/ironlamp.md) •
+![火炬](/images/items/torch.png) [火炬](/guides/Items/torch.md) •
+![墙上火炬](/images/items/walltorch.png) [墙上火炬](/guides/Items/walltorch.md)

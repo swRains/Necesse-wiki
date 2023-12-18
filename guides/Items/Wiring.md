@@ -90,17 +90,17 @@
 
 ## 照明
 
-![火焰圣杯](/images/Items/firechalice.png) [火焰圣杯](/guides/Items/firechalice.md) •
-![金灯](/images/Items/goldlamp.png) [金灯](/guides/Items/goldlamp.md) •
-![铁灯](/images/Items/ironlamp.png) [铁灯](/guides/Items/ironlamp.md) •
-![火炬](/images/Items/torch.png) [火炬](/guides/Items/torch.md) •
-![墙上火炬](/images/Items/walltorch.png) [墙上火炬](/guides/Items/walltorch.md)
+![火焰圣杯](/images/items/firechalice.png) [火焰圣杯](/guides/Items/firechalice.md) •
+![金灯](/images/items/goldlamp.png) [金灯](/guides/Items/goldlamp.md) •
+![铁灯](/images/items/ironlamp.png) [铁灯](/guides/Items/ironlamp.md) •
+![火炬](/images/items/torch.png) [火炬](/guides/Items/torch.md) •
+![墙上火炬](/images/items/walltorch.png) [墙上火炬](/guides/Items/walltorch.md)
 
 
 ### 电路显示
 
-![烟花发射器](/images/Items/fireworkdispenser.png) [烟火发射器](/guides/Items/firework_dispenser.md)
-![LED面板](/images/Items/ledpanel.png) [LED面板](/guides/Items/led_panel.md)
+![烟花发射器](/images/items/fireworkdispenser.png) [烟火发射器](/guides/Items/firework_dispenser.md)
+![LED面板](/images/items/ledpanel.png) [LED面板](/guides/Items/led_panel.md)
 
 ### 门
 
@@ -160,76 +160,76 @@
 ## 电路的完整列表
 | 名称 | 类型 | 效果 |
 | ---- | ---- | ---- |
-| ![与门](/images/web/AND_Gate.png) [与门](/guides/items/andgate) | [门](/guides/items/gates) | 如果所有输入都为开启，则输出为开启 |
-| ![砖门](/images/web/Brick_Door.png) [砖门](/guides/items/brickdoor) | [门](/guides/items/doors) |  |
-| ![缓冲门](/images/web/Buffer_Gate.png) [缓冲门](/guides/items/buffergate) | [门](/guides/items/gates) | 在指定时间后重复输出信号 |
-| ![计数器门](/images/web/Counter_Gate.png) [计数器门](/guides/items/countergate) | [门](/guides/items/gates) | 计数输入信号并在最大计数时输出信号 |
-| ![剪线钳](/images/web/Cutter.png) [剪线钳](/guides/items/cutter) | [工具](/guides/items/tools) | 移除电路和门 |
-| ![深砂岩箭陷阱](/images/web/Deep_Sandstone_Arrow_Trap.png) [深砂岩箭陷阱](/guides/items/deepsandstonearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![深砂岩门](/images/web/Deep_Sandstone_Door.png) [深砂岩门](/guides/items/deepsandstonedoor) | [门](/guides/items/doors) |  |
-| ![深砂岩火焰陷阱](/images/web/Deep_Sandstone_Flame_Trap.png) [深砂岩火焰陷阱](/guides/items/deepsandstoneflametrap) | [陷阱](/guides/items/traps) |  |
-| ![深雪石箭陷阱](/images/web/Deep_Snow_Stone_Arrow_Trap.png) [深雪石箭陷阱](/guides/items/deepsnowstonearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![深雪石门](/images/web/Deep_Snow_Stone_Door.png) [深雪石门](/guides/items/deepsnowstonedoor) | [门](/guides/items/doors) |  |
-| ![深雪石火焰陷阱](/images/web/Obsidian_Flame_Trap.png) [深雪石火焰陷阱](/guides/items/deepsnowstoneflametrap) | [陷阱](/guides/items/traps) |  |
-| ![深雪石压力板](/images/web/Deep_Snow_Stone_Pressure_Plate.png) [深雪石压力板](/guides/items/deepsnowstonepressureplate) | [开关](/guides/items/switches) |  |
-| ![深石箭陷阱](/images/web/Deep_Stone_Arrow_Trap.png) [深石箭陷阱](/guides/items/deepstonearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![深石门](/images/web/Deep_Stone_Door.png) [深石门](/guides/items/deepstonedoor) | [门](/guides/items/doors) |  |
-| ![深石火焰陷阱](/images/web/Deep_Stone_Flame_Trap.png) [深石火焰陷阱](/guides/items/deepstoneflametrap) | [陷阱](/guides/items/traps) |  |
-| ![深石压力板](/images/web/Deep_Stone_Pressure_Plate.png) [深石压力板](/guides/items/deepstonepressureplate) | [开关](/guides/items/switches) |  |
-| ![深沼泽石箭陷阱](/images/web/Deep_Swamp_Stone_Arrow_Trap.png) [深沼泽石箭陷阱](/guides/items/deepswampstonearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![深沼泽石门](/images/web/Deep_Swamp_Stone_Door.png) [深沼泽石门](/guides/items/deepswampstonedoor) | [门](/guides/items/doors) |  |
-| ![深沼泽石火焰陷阱](/images/web/Deep_Swamp_Stone_Flame_Trap.png) [深沼泽石火焰陷阱](/guides/items/deepswampstoneflametrap) | [陷阱](/guides/items/traps) |  |
-| ![深沼泽石压力板](/images/web/Deep_Swamp_Stone_Pressure_Plate.png) [深沼泽石压力板](/guides/items/deepswampstonepressureplate) | [开关](/guides/items/switches) |  |
-| ![延迟门](/images/web/Delay_Gate.png) [延迟门](/guides/items/delaygate) | [门](/guides/items/gates) | 在输入后经过指定时间开启/关闭 |
-| ![地牢箭陷阱](/images/web/Dungeon_Arrow_Trap.png) [地牢箭陷阱](/guides/items/dungeonarrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![地牢门](/images/web/Dungeon_Door.png) [地牢门](/guides/items/dungeondoor) | [门](/guides/items/doors) |  |
-| ![地牢火焰陷阱](/images/web/Dungeon_Flame_Trap.png) [地牢火焰陷阱](/guides/items/dungeonflametrap) | [陷阱](/guides/items/traps) |  |
-| ![地牢压力板](/images/web/Dungeon_Pressure_Plate.png) [地牢压力板](/guides/items/dungeonpressureplate) | [开关](/guides/items/switches) |  |
-| ![地牢虚空陷阱](/images/web/Dungeon_Void_Trap.png) [地牢虚空陷阱](/guides/items/dungeonvoidtrap) | [陷阱](/guides/items/traps) |  |
-| ![火盆](/images/web/Fire_Chalice.png) [火盆](/guides/items/firechalice) | [照明](/guides/items/lighting) |  |
-| ![烟花发射器](/images/web/Firework_Dispenser.png) [烟花发射器](/guides/items/fireworkdispenser) | [电路显示](/guides/items/wiringdisplays) | 从10个插槽的库存中发射烟花火箭 |
-| ![金灯](/images/web/Gold_Lamp.png) [金灯](/guides/items/goldlamp) | [照明](/guides/items/lighting) |  |
-| ![冰箭陷阱](/images/web/Ice_Arrow_Trap.png) [冰箭陷阱](/guides/items/icearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![冰门](/images/web/Ice_Door.png) [冰门](/guides/items/icedoor) | [门](/guides/items/doors) |  |
-| ![铁栅栏门](/images/web/Iron_Fence_Gate.png) [铁栅栏门](/guides/items/ironfencegate) | [栅栏门](/guides/items/fencegates) |  |
-| ![铁灯](/images/web/Iron_Lamp.png) [铁灯](/guides/items/ironlamp) | [照明](/guides/items/lighting) |  |
-| ![LED面板](/images/web/LED_Panel.png) [LED面板](/guides/items/ledpanel) | [线路显示](/guides/items/wiringdisplays) | 开启时为白色，关闭时为黑色 |
-| ![非与门](/images/web/NAND_Gate.png) [非与门](/guides/items/nandgate) | [门](/guides/items/gates) | 如果所有输入都为开启，则输出为关闭 |
-| ![非或门](/images/web/NOR_Gate.png) [非或门](/guides/items/norgate) | [门](/guides/items/gates) | 如果任一输入为开启，则输出为关闭 |
-| ![或门](/images/web/OR_Gate.png) [或门](/guides/items/orgate) | [门](/guides/items/gates) | 如果任一输入为开启，则输出为开启 |
-| ![黑曜石箭陷阱](/images/web/Obsidian_Arrow_Trap.png) [黑曜石箭陷阱](/guides/items/obsidianarrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![黑曜石门](/images/web/Obsidian_Door.png) [黑曜石门](/guides/items/obsidiandoor) | [门](/guides/items/doors) |  |
-| ![黑曜石火焰陷阱](/images/web/Obsidian_Flame_Trap.png) [黑曜石火焰陷阱](/guides/items/obsidianflametrap) | [陷阱](/guides/items/traps) |  |
-| ![棕榈门](/images/web/Palm_Door.png) [棕榈门](/guides/items/palmdoor) | [门](/guides/items/doors) |  |
-| ![松木门](/images/web/Pine_Door.png) [松木门](/guides/items/pinedoor) | [门](/guides/items/doors) |  |
-| ![岩石杠杆](/images/web/Rock_Lever.png) [岩石杠杆](/guides/items/rocklever) | [开关](/guides/items/switches) |  |
-| ![SR锁存器门](/images/web/SR_Latch_Gate.png) [SR锁存器门](/guides/items/srlatchgate) | [门](/guides/items/gates) | 激活时输出为开启，重置时输出为关闭，激活并重置时输出为关闭 |
-| ![砂岩箭陷阱](/images/web/Sandstone_Arrow_Trap.png) [砂岩箭陷阱](/guides/items/sandstonearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![砂岩门](/images/web/Sandstone_Door.png) [砂岩门](/guides/items/sandstonedoor) | [门](/guides/items/doors) | 
-| ![砂岩火焰陷阱](/images/web/Sandstone_Flame_Trap.png) [砂岩火焰陷阱](/guides/items/sandstoneflametrap) | [陷阱](/guides/items/traps) |  |
-| ![砂岩压力板](/images/web/Sandstone_Pressure_Plate.png) [砂岩压力板](/guides/items/sandstonepressureplate) | [开关](/guides/items/switches) |  |
-| ![传感器门](/images/web/Sensor_Gate.png) [传感器门](/guides/items/sensorgate) | [门](/guides/items/gates) | 当检测到指定范围内的特定实体时输出为开启 |
-| ![雪石箭陷阱](/images/web/Snow_Stone_Arrow_Trap.png) [雪石箭陷阱](/guides/items/snowstonearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![雪石门](/images/web/Snow_Stone_Door.png) [雪石门](/guides/items/snowstonedoor) | [门](/guides/items/doors) |  |
-| ![雪石压力板](/images/web/Snow_Stone_Pressure_Plate.png) [雪石压力板](/guides/items/snowstonepressureplate) | [开关](/guides/items/switches) |  |
-| ![声音门](/images/web/Sound_Gate.png) [声音门](/guides/items/soundgate) | [门](/guides/items/gates) | 供电时播放音乐 |
-| ![石箭陷阱](/images/web/Stone_Arrow_Trap.png) [石箭陷阱](/guides/items/stonearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![石门](/images/web/Stone_Door.png) [石门](/guides/items/stonedoor) | [门](/guides/items/doors) |  |
-| ![石栅栏门](/images/web/Stone_Fence_Gate.png) [石栅栏门](/guides/items/stonefencegate) | [栅栏门](/guides/items/fencegates) |  |
-| ![石火焰陷阱](/images/web/Stone_Flame_Trap.png) [石火焰陷阱](/guides/items/stoneflametrap) | [陷阱](/guides/items/traps) |  |
-| ![石压力板](/images/web/Stone_Pressure_Plate.png) [石压力板](/guides/items/stonepressureplate) | [开关](/guides/items/switches) |  |
-| ![沼泽石箭陷阱](/images/web/Swamp_Stone_Arrow_Trap.png) [沼泽石箭陷阱](/guides/items/swampstonearrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![沼泽石门](/images/web/Swamp_Stone_Door.png) [沼泽石门](/guides/items/swampstonedoor) | [门](/guides/items/doors) |  |
-| ![沼泽石火焰陷阱](/images/web/Swamp_Stone_Flame_Trap.png) [沼泽石火焰陷阱](/guides/items/swampstoneflametrap) | [陷阱](/guides/items/traps) |  |
-| ![沼泽石压力板](/images/web/Swamp_Stone_Pressure_Plate.png) [沼泽石压力板](/guides/items/swampstonepressureplate) | [开关](/guides/items/switches)| |
-| ![T翻转门](/images/web/T_flip-flop_Gate.png) [T翻转门](/guides/items/tflipflopgate) | [门](/guides/items/gates) | 每次接收输入时切换输出状态 |
-| ![TNT](/images/web/TNT.png) [TNT](/guides/items/tnt) | [杂项物品](/guides/items/miscobjects) |  |
-| ![定时器门](/images/web/Timer_Gate.png) [定时器门](/guides/items/timergate) | [门](/guides/items/gates) | 接收输入后输出一次延迟短信号 |
-| ![火把](/images/web/Torch.png) [火把](/guides/items/torch) | [照明](/guides/items/lighting) |  |
-| ![电线](/images/web/Wire.png) [电线](/guides/items/wire) | [线路](/guides/items/wiring) |  |
-| ![木箭陷阱](/images/web/Wood_Arrow_Trap.png) [木箭陷阱](/guides/items/woodarrowtrap) | [陷阱](/guides/items/traps) |  |
-| ![木门](/images/web/Wood_Door.png) [木门](/guides/items/wooddoor) | [门](/guides/items/doors) |  |
-| ![木栅栏门](/images/web/Wood_Fence_Gate.png) [木栅栏门](/guides/items/woodfencegate) | [栅栏门](/guides/items/fencegates) |  |
-| ![木压力板](/images/web/Wood_Pressure_Plate.png) [木压力板](/guides/items/woodpressureplate) | [开关](/guides/items/switches) |  |
-| ![扳手](/images/web/Wrench.png) [扳手](/guides/items/wrench) | [工具](/guides/items/tools) | 用于放置电线，编辑门 |
-| ![异或门](/images/web/XOR_Gate.png) [异或门](/guides/items/xorgate) | [门](/guides/items/gates) | 当且仅当一个输入为开启时，输出为开启 |
+| ![与门](/images/web/AND_Gate.png) [与门](/guides/Items/andgate) | [门](/guides/Items/gates) | 如果所有输入都为开启，则输出为开启 |
+| ![砖门](/images/web/Brick_Door.png) [砖门](/guides/Items/brickdoor) | [门](/guides/Items/doors) |  |
+| ![缓冲门](/images/web/Buffer_Gate.png) [缓冲门](/guides/Items/buffergate) | [门](/guides/Items/gates) | 在指定时间后重复输出信号 |
+| ![计数器门](/images/web/Counter_Gate.png) [计数器门](/guides/Items/countergate) | [门](/guides/Items/gates) | 计数输入信号并在最大计数时输出信号 |
+| ![剪线钳](/images/web/Cutter.png) [剪线钳](/guides/Items/cutter) | [工具](/guides/Items/tools) | 移除电路和门 |
+| ![深砂岩箭陷阱](/images/web/Deep_Sandstone_Arrow_Trap.png) [深砂岩箭陷阱](/guides/Items/deepsandstonearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![深砂岩门](/images/web/Deep_Sandstone_Door.png) [深砂岩门](/guides/Items/deepsandstonedoor) | [门](/guides/Items/doors) |  |
+| ![深砂岩火焰陷阱](/images/web/Deep_Sandstone_Flame_Trap.png) [深砂岩火焰陷阱](/guides/Items/deepsandstoneflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![深雪石箭陷阱](/images/web/Deep_Snow_Stone_Arrow_Trap.png) [深雪石箭陷阱](/guides/Items/deepsnowstonearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![深雪石门](/images/web/Deep_Snow_Stone_Door.png) [深雪石门](/guides/Items/deepsnowstonedoor) | [门](/guides/Items/doors) |  |
+| ![深雪石火焰陷阱](/images/web/Obsidian_Flame_Trap.png) [深雪石火焰陷阱](/guides/Items/deepsnowstoneflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![深雪石压力板](/images/web/Deep_Snow_Stone_Pressure_Plate.png) [深雪石压力板](/guides/Items/deepsnowstonepressureplate) | [开关](/guides/Items/switches) |  |
+| ![深石箭陷阱](/images/web/Deep_Stone_Arrow_Trap.png) [深石箭陷阱](/guides/Items/deepstonearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![深石门](/images/web/Deep_Stone_Door.png) [深石门](/guides/Items/deepstonedoor) | [门](/guides/Items/doors) |  |
+| ![深石火焰陷阱](/images/web/Deep_Stone_Flame_Trap.png) [深石火焰陷阱](/guides/Items/deepstoneflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![深石压力板](/images/web/Deep_Stone_Pressure_Plate.png) [深石压力板](/guides/Items/deepstonepressureplate) | [开关](/guides/Items/switches) |  |
+| ![深沼泽石箭陷阱](/images/web/Deep_Swamp_Stone_Arrow_Trap.png) [深沼泽石箭陷阱](/guides/Items/deepswampstonearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![深沼泽石门](/images/web/Deep_Swamp_Stone_Door.png) [深沼泽石门](/guides/Items/deepswampstonedoor) | [门](/guides/Items/doors) |  |
+| ![深沼泽石火焰陷阱](/images/web/Deep_Swamp_Stone_Flame_Trap.png) [深沼泽石火焰陷阱](/guides/Items/deepswampstoneflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![深沼泽石压力板](/images/web/Deep_Swamp_Stone_Pressure_Plate.png) [深沼泽石压力板](/guides/Items/deepswampstonepressureplate) | [开关](/guides/Items/switches) |  |
+| ![延迟门](/images/web/Delay_Gate.png) [延迟门](/guides/Items/delaygate) | [门](/guides/Items/gates) | 在输入后经过指定时间开启/关闭 |
+| ![地牢箭陷阱](/images/web/Dungeon_Arrow_Trap.png) [地牢箭陷阱](/guides/Items/dungeonarrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![地牢门](/images/web/Dungeon_Door.png) [地牢门](/guides/Items/dungeondoor) | [门](/guides/Items/doors) |  |
+| ![地牢火焰陷阱](/images/web/Dungeon_Flame_Trap.png) [地牢火焰陷阱](/guides/Items/dungeonflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![地牢压力板](/images/web/Dungeon_Pressure_Plate.png) [地牢压力板](/guides/Items/dungeonpressureplate) | [开关](/guides/Items/switches) |  |
+| ![地牢虚空陷阱](/images/web/Dungeon_Void_Trap.png) [地牢虚空陷阱](/guides/Items/dungeonvoidtrap) | [陷阱](/guides/Items/traps) |  |
+| ![火盆](/images/web/Fire_Chalice.png) [火盆](/guides/Items/firechalice) | [照明](/guides/Items/lighting) |  |
+| ![烟花发射器](/images/web/Firework_Dispenser.png) [烟花发射器](/guides/Items/fireworkdispenser) | [电路显示](/guides/Items/wiringdisplays) | 从10个插槽的库存中发射烟花火箭 |
+| ![金灯](/images/web/Gold_Lamp.png) [金灯](/guides/Items/goldlamp) | [照明](/guides/Items/lighting) |  |
+| ![冰箭陷阱](/images/web/Ice_Arrow_Trap.png) [冰箭陷阱](/guides/Items/icearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![冰门](/images/web/Ice_Door.png) [冰门](/guides/Items/icedoor) | [门](/guides/Items/doors) |  |
+| ![铁栅栏门](/images/web/Iron_Fence_Gate.png) [铁栅栏门](/guides/Items/ironfencegate) | [栅栏门](/guides/Items/fencegates) |  |
+| ![铁灯](/images/web/Iron_Lamp.png) [铁灯](/guides/Items/ironlamp) | [照明](/guides/Items/lighting) |  |
+| ![LED面板](/images/web/LED_Panel.png) [LED面板](/guides/Items/ledpanel) | [线路显示](/guides/Items/wiringdisplays) | 开启时为白色，关闭时为黑色 |
+| ![非与门](/images/web/NAND_Gate.png) [非与门](/guides/Items/nandgate) | [门](/guides/Items/gates) | 如果所有输入都为开启，则输出为关闭 |
+| ![非或门](/images/web/NOR_Gate.png) [非或门](/guides/Items/norgate) | [门](/guides/Items/gates) | 如果任一输入为开启，则输出为关闭 |
+| ![或门](/images/web/OR_Gate.png) [或门](/guides/Items/orgate) | [门](/guides/Items/gates) | 如果任一输入为开启，则输出为开启 |
+| ![黑曜石箭陷阱](/images/web/Obsidian_Arrow_Trap.png) [黑曜石箭陷阱](/guides/Items/obsidianarrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![黑曜石门](/images/web/Obsidian_Door.png) [黑曜石门](/guides/Items/obsidiandoor) | [门](/guides/Items/doors) |  |
+| ![黑曜石火焰陷阱](/images/web/Obsidian_Flame_Trap.png) [黑曜石火焰陷阱](/guides/Items/obsidianflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![棕榈门](/images/web/Palm_Door.png) [棕榈门](/guides/Items/palmdoor) | [门](/guides/Items/doors) |  |
+| ![松木门](/images/web/Pine_Door.png) [松木门](/guides/Items/pinedoor) | [门](/guides/Items/doors) |  |
+| ![岩石杠杆](/images/web/Rock_Lever.png) [岩石杠杆](/guides/Items/rocklever) | [开关](/guides/Items/switches) |  |
+| ![SR锁存器门](/images/web/SR_Latch_Gate.png) [SR锁存器门](/guides/Items/srlatchgate) | [门](/guides/Items/gates) | 激活时输出为开启，重置时输出为关闭，激活并重置时输出为关闭 |
+| ![砂岩箭陷阱](/images/web/Sandstone_Arrow_Trap.png) [砂岩箭陷阱](/guides/Items/sandstonearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![砂岩门](/images/web/Sandstone_Door.png) [砂岩门](/guides/Items/sandstonedoor) | [门](/guides/Items/doors) | 
+| ![砂岩火焰陷阱](/images/web/Sandstone_Flame_Trap.png) [砂岩火焰陷阱](/guides/Items/sandstoneflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![砂岩压力板](/images/web/Sandstone_Pressure_Plate.png) [砂岩压力板](/guides/Items/sandstonepressureplate) | [开关](/guides/Items/switches) |  |
+| ![传感器门](/images/web/Sensor_Gate.png) [传感器门](/guides/Items/sensorgate) | [门](/guides/Items/gates) | 当检测到指定范围内的特定实体时输出为开启 |
+| ![雪石箭陷阱](/images/web/Snow_Stone_Arrow_Trap.png) [雪石箭陷阱](/guides/Items/snowstonearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![雪石门](/images/web/Snow_Stone_Door.png) [雪石门](/guides/Items/snowstonedoor) | [门](/guides/Items/doors) |  |
+| ![雪石压力板](/images/web/Snow_Stone_Pressure_Plate.png) [雪石压力板](/guides/Items/snowstonepressureplate) | [开关](/guides/Items/switches) |  |
+| ![声音门](/images/web/Sound_Gate.png) [声音门](/guides/Items/soundgate) | [门](/guides/Items/gates) | 供电时播放音乐 |
+| ![石箭陷阱](/images/web/Stone_Arrow_Trap.png) [石箭陷阱](/guides/Items/stonearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![石门](/images/web/Stone_Door.png) [石门](/guides/Items/stonedoor) | [门](/guides/Items/doors) |  |
+| ![石栅栏门](/images/web/Stone_Fence_Gate.png) [石栅栏门](/guides/Items/stonefencegate) | [栅栏门](/guides/Items/fencegates) |  |
+| ![石火焰陷阱](/images/web/Stone_Flame_Trap.png) [石火焰陷阱](/guides/Items/stoneflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![石压力板](/images/web/Stone_Pressure_Plate.png) [石压力板](/guides/Items/stonepressureplate) | [开关](/guides/Items/switches) |  |
+| ![沼泽石箭陷阱](/images/web/Swamp_Stone_Arrow_Trap.png) [沼泽石箭陷阱](/guides/Items/swampstonearrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![沼泽石门](/images/web/Swamp_Stone_Door.png) [沼泽石门](/guides/Items/swampstonedoor) | [门](/guides/Items/doors) |  |
+| ![沼泽石火焰陷阱](/images/web/Swamp_Stone_Flame_Trap.png) [沼泽石火焰陷阱](/guides/Items/swampstoneflametrap) | [陷阱](/guides/Items/traps) |  |
+| ![沼泽石压力板](/images/web/Swamp_Stone_Pressure_Plate.png) [沼泽石压力板](/guides/Items/swampstonepressureplate) | [开关](/guides/Items/switches)| |
+| ![T翻转门](/images/web/T_flip-flop_Gate.png) [T翻转门](/guides/Items/tflipflopgate) | [门](/guides/Items/gates) | 每次接收输入时切换输出状态 |
+| ![TNT](/images/web/TNT.png) [TNT](/guides/Items/tnt) | [杂项物品](/guides/Items/miscobjects) |  |
+| ![定时器门](/images/web/Timer_Gate.png) [定时器门](/guides/Items/timergate) | [门](/guides/Items/gates) | 接收输入后输出一次延迟短信号 |
+| ![火把](/images/web/Torch.png) [火把](/guides/Items/torch) | [照明](/guides/Items/lighting) |  |
+| ![电线](/images/web/Wire.png) [电线](/guides/Items/wire) | [线路](/guides/Items/wiring) |  |
+| ![木箭陷阱](/images/web/Wood_Arrow_Trap.png) [木箭陷阱](/guides/Items/woodarrowtrap) | [陷阱](/guides/Items/traps) |  |
+| ![木门](/images/web/Wood_Door.png) [木门](/guides/Items/wooddoor) | [门](/guides/Items/doors) |  |
+| ![木栅栏门](/images/web/Wood_Fence_Gate.png) [木栅栏门](/guides/Items/woodfencegate) | [栅栏门](/guides/Items/fencegates) |  |
+| ![木压力板](/images/web/Wood_Pressure_Plate.png) [木压力板](/guides/Items/woodpressureplate) | [开关](/guides/Items/switches) |  |
+| ![扳手](/images/web/Wrench.png) [扳手](/guides/Items/wrench) | [工具](/guides/Items/tools) | 用于放置电线，编辑门 |
+| ![异或门](/images/web/XOR_Gate.png) [异或门](/guides/Items/xorgate) | [门](/guides/Items/gates) | 当且仅当一个输入为开启时，输出为开启 |
