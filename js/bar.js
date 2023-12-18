@@ -134,7 +134,20 @@ new Docute({
             ]
             
         },
-       
+        {
+            title: '其他',
+            children:[
+                {
+                    title: '成就',
+                    link: '/guides/Achievement'
+                },
+                {
+                    title: '公益服务器',
+                    link: '/guides/FreeServer'
+                },
+            ]
+            
+        },
         {
             title: '加入我们',
             link: '/guides/Join'
