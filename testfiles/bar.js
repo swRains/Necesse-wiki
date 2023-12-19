@@ -157,7 +157,5 @@ new Docute({
             link: '/Thanks'
         }
     ],
-    plugins: [
-        searchBar(SearchResult)
-    ],
+
  });

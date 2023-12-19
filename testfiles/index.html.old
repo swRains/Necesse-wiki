@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Necesse中文Wiki</title>
+  <link rel="stylesheet" href="/css/docute.css">
+  <script src="/js/jszip.min.js"></script>
+  <!-- 尝试减少请求数，结论：目前没有办法，没办法实现无感的从服务器下载压缩包家压倒浏览器缓存 -->
+    <!-- 注册service worker -->
+  <script>
+    // 检查service worker是否可用
+    if ('serviceWorker' in navigator) {
+      // 注册service worker
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/service-worker.js')
+          .then(registration => {
+            console.log('Service Worker 注册成功: ', registration.scope);
+          })
+          .catch(error => {
+            console.error('Service Worker 注册失败: ', error);
+          });
+      });
+    }
+  </script>
+  <!-- 引入字体样式 -->
+  <style>
+    /* 直接引入字体文件 */
+    @font-face {
+      font-family: 'AlibabaHealthFont';
+      src: url('/fonts/AlibabaHealthFont2.0CN-85B.ttf') format('truetype');
+    }
+  
+    /* 应用字体到 body */
+    body {
+      font-family: 'AlibabaHealthFont', 'Lato', sans-serif;
+    }
+  </style>
+  
+</head>
+
+<body>
+  <div id="docute"></div>
+  <script src="/js/docute.js"></script>
+  <script src="/js/search.js"></script>
+  <script src="/js/bar.js"></script>
+</body>
+
+</html>
