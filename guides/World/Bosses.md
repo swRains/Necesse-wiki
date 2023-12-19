@@ -156,7 +156,7 @@ Boss的生命值随着玩家数量增加而增加，每增加一个玩家，生�
  | 类型 | 细节                     |
 |----------|-------------------------------|
 | 类型     | Bosses                        |
-| 生命值   | 	110000  |
+| 生命值   | 	11000  |
 | 护甲    | 30                         |
 | 伤害   |  -碰撞：65<br>-镰刀：65<br>-灵魂：60  |
   | 掉落物 | **掉落以下物品之一:**  <br> ![deathripper](../../../images/items/deathripper.png) [亡者之悼](../../../guides/Items/deathripper.md) 25% ![reaperscythe](../../../images/items/reaperscythe.png) [死神镰刀](../../../guides/Items/reaperscythe.md) 25% ![reaperscall](../../../images/items/reaperscall.png) [死神呼唤](../../../guides/Items/reaperscall.md) 25% ![shadowbeam](../../../images/items/shadowbeam.png) [暗影激光](../../../guides/Items/shadowbeam.md) 25% |
