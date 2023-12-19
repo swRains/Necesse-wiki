@@ -3,10 +3,10 @@
 
 | <center>生物群落</center> | <center>岛屿</center> |
 |-------------|-------------|
-| ![](*/../../../images/web/Forest_Nav_Icon.png) [森林群落](##森林群落) | 森林岛屿、森林村庄、平原、海盗村庄、[地牢](Dungeon.md)入口 |
-| ![](*/../../../images/web/Snow_Nav_Icon.png) [雪地群落](##雪地群落) | 雪地岛屿、雪地村庄 |
-| ![](*/../../../images/web/Swamp_Nav_Icon.png) [沼泽群落](##沼泽群落) | 沼泽岛屿 |
-| ![](*/../../../images/web/Desert_Nav_Icon.png) [沙漠群落](##沙漠群落) | 沙漠岛屿、沙漠村庄 |
+| ![](*/../../../images/web/Forest_Nav_Icon.png) [森林群落](#森林群落) | 森林岛屿、森林村庄、平原、海盗村庄、[地牢](Dungeon.md)入口 |
+| ![](*/../../../images/web/Snow_Nav_Icon.png) [雪地群落](#雪地群落) | 雪地岛屿、雪地村庄 |
+| ![](*/../../../images/web/Swamp_Nav_Icon.png) [沼泽群落](#沼泽群落) | 沼泽岛屿 |
+| ![](*/../../../images/web/Desert_Nav_Icon.png) [沙漠群落](#沙漠群落) | 沙漠岛屿、沙漠村庄 |
 
 ## 森林群落
 森林是主要生物群落。拥有森林生物群系的岛屿有![](*/../../../images/web/Forest_Island_Icon.png)森林岛屿、![](*/../../../images/web/44px-Forest_Village_Icon.png)森林村庄、![](*/../../../images/web/Plains_Icon.png)平原、![](*/../../../images/web/44px-Pirate_Village_Icon.png)海盗村庄和![](*/../../../images/web/Dungeon_Entrance_Icon.png)地牢入口。您可以在这里获得[云杉树苗]()、[橡树树苗]()和[蓝莓灌木丛]()，以及[向日葵]()和[火焰花]()。森林生物群落中还可以找到[牛]()、[羊]()和[兔子]()。[僵尸]()和[僵尸弓箭手]()将在夜间生成。  
