@@ -10,8 +10,9 @@
     --link-text-decoration: none;
     --link-text-decoration--hover: none;
 
-      /* 封面页标题颜色 */
-      --cover-color: #ffffff; /* 白色 */
+    /* 封面页标题颜色 */
+    --cover-color: #ffffff;
+    /* 白色 */
     /* 封面背景图 */
     /* --cover-background-image: url('../images/background.png'); */
     /* 封面背景渐变 */
@@ -49,6 +50,7 @@ a:hover,
 a:focus {
     text-decoration: var(--link-text-decoration--hover);
 }
+
 /* 应用封面页标题颜色设置 */
 .cover {
     /* background-image: var(--cover-background-image); */
@@ -73,14 +75,25 @@ a:focus {
 
 
 
+/* 引入字体文件 */
+@font-face {
+    font-family: 'AlibabaHealthFont';
+    src: url('/fonts/AlibabaHealthFont2.0CN-85B.woff') format('woff');
+}
 
-  /* 将视频居中对齐 */
-  #covervideo {
-    width: 550px; /* 设置视频宽度 */
+/* 应用字体到 body */
+body {
+    font-family: 'AlibabaHealthFont', 'Lato', sans-serif;
+}
+
+/* 将视频居中对齐 */
+#covervideo {
+    width: 550px;
+    /* 设置视频宽度 */
     display: block;
     margin-left: auto;
     margin-right: auto;
-  }
+}
 
 figure.thumbnails img {
     margin: 0.75em 0;

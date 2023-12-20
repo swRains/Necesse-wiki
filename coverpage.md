@@ -15,6 +15,7 @@
 
 [进入WIKI](/index)
 [联机教程](/guides/Multiplayer)
+[Steam](https://store.steampowered.com/app/1169040/_Necesse/)
 [GitHub](https://github.com/swRains/Necesse-wiki)  
 
 
