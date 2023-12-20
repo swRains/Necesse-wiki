@@ -2,7 +2,7 @@
 * 世界
   * [生物群落](/guides/World/Biomes)
   * [NPC](/guides/World/NPCs)
-  * [攻略](/guides/World/Raiders)
+  * [入侵](/guides/World/Raiders)
   * [怪物](/guides/World/Monsters)
   * [动物](/guides/World/Animals)
   * [小动物](/guides/World/Critters)

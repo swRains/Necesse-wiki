@@ -1,11 +1,91 @@
+/* 主题设置 */
+:root {
+    --link-color: blue;
+    /* 未访问的链接颜色 */
+    --link-color--hover: darkblue;
+    /* 鼠标悬停时的链接颜色 */
+    --link-color--active: red;
+    /* 鼠标点击时的链接颜色（可选） */
+    /* 超链接文本装饰 */
+    --link-text-decoration: none;
+    --link-text-decoration--hover: none;
+
+      /* 封面页标题颜色 */
+      --cover-color: #ffffff; /* 白色 */
+    /* 封面背景图 */
+    /* --cover-background-image: url('../images/background.png'); */
+    /* 封面背景渐变 */
+    --cover-background-image: linear-gradient(to left bottom, hsl(242, 100%, 85%) 0%, hsl(78, 100%, 85%) 100%);
+    /* 侧边栏过渡动画时间 */
+    --sidebar-transition-duration: 0.75s;
+    /* 从原来的值调整为更平滑的持续时间 */
+    --sidebar-transition-timing-function: ease-in-out;
+    /* --cover-button-primary-background: #ffffff; */
+}
+
 .markdown-section iframe[src*="buttons.github.io"] {
     margin: 0;
 }
 
+/* 应用超链接颜色设置 */
+a {
+    color: var(--link-color);
+}
+
+a:hover {
+    color: var(--link-color--hover);
+}
+
+a:active {
+    color: var(--link-color--active);
+}
+
+/* 应用超链接文本装饰设置 */
+a {
+    text-decoration: var(--link-text-decoration);
+}
+
+a:hover,
+a:focus {
+    text-decoration: var(--link-text-decoration--hover);
+}
+/* 应用封面页标题颜色设置 */
+.cover {
+    /* background-image: var(--cover-background-image); */
+    /* 确保背景图片覆盖整个封面区域 */
+    /* background-size: cover; */
+    /* 背景图片居中 */
+    /* background-position: center; */
+    /* 背景图片不重复 */
+    /* background-repeat: no-repeat; */
+    /* 应用封面页文本颜色设置 */
+    color: var(--cover-color);
+    background-image: var(--cover-background-image);
+}
+
+
+
+
+/* 应用侧边栏动画设置 */
+.sidebar {
+    transition: all var(--sidebar-transition-duration) var(--sidebar-transition-timing-function);
+}
+
+
+
+
+  /* 将视频居中对齐 */
+  #covervideo {
+    width: 550px; /* 设置视频宽度 */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 figure.thumbnails img {
     margin: 0.75em 0;
     border-radius: 3px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1), 0 4px 12px rgba(0,0,0,0.15);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1), 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 @media (min-width: 30em) {
@@ -35,7 +115,7 @@ figure.thumbnails img {
             width: 0;
         }
 
-        figure.thumbnails img + img {
+        figure.thumbnails img+img {
             margin: 0 0 0 1.5em;
         }
     }

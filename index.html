@@ -7,22 +7,26 @@
     <title>Necesse中文wiki - 一个好玩的游戏wiki</title>
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: dark)" href="/css/theme-simple-dark.css">
-    <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: light)" href="/css/theme-simple.css">
+    <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: dark)"
+        href="/css/theme-simple-dark.css">
+    <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: light)"
+        href="/css/theme-simple.css">
     <link rel="stylesheet" href="/css/main.css">
 
     <style>
         /* 引入字体文件 */
         @font-face {
-          font-family: 'AlibabaHealthFont';
-          src: url('/fonts/AlibabaHealthFont2.0CN-85B.woff') format('woff');
+            font-family: 'AlibabaHealthFont';
+            src: url('/fonts/AlibabaHealthFont2.0CN-85B.woff') format('woff');
         }
-      
+
         /* 应用字体到 body */
         body {
-          font-family: 'AlibabaHealthFont', 'Lato', sans-serif;
+            font-family: 'AlibabaHealthFont', 'Lato', sans-serif;
         }
-      </style>
+
+
+    </style>
 </head>
 
 <body>
@@ -33,28 +37,29 @@
         window.$docsify = {
             // GENERAL
             // -----------------------------------------------------------------
-            name       : 'Necesse中文wiki',
-            repo       : 'https://github.com/swRains/Necesse-wiki',
-            coverpage  : 'coverpage.md',
-            homepage   : 'index.md',
+            name: 'Necesse中文wiki',
+            repo: 'https://github.com/swRains/Necesse-wiki',
+            coverpage: 'coverpage.md',
+            onlyCover: true,
+            homepage: 'index.md',
             loadSidebar: 'sidebar.md',
-            loadNavbar : 'navbar.md',
+            loadNavbar: 'navbar.md',
 
             // NAVIGATION
             // -----------------------------------------------------------------
-    //       alias: {
-    //           '.*?/changelogs': 'https://wiki.necesse.cn/changelogs.md',
-    //       },
-            auto2top   : true,
-            maxLevel   : 3,
+            //       alias: {
+            //           '.*?/changelogs': 'https://wiki.necesse.cn/changelogs.md',
+            //       },
+            auto2top: true,
+            maxLevel: 3,
             subMaxLevel: 3,
 
             // PLUGINS
             // -----------------------------------------------------------------
             executeScript: true,
             search: {
-                depth      : 4,
-                noData     : 'No results!',
+                depth: 4,
+                noData: 'No results!',
                 placeholder: 'Search...'
             },
             plugins: [
@@ -88,4 +93,5 @@
     <script src="/js/zoom-image.min.js"></script>
     <script src="/js/prism-bash.min.js"></script>
 </body>
+
 </html>
