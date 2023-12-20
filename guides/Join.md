@@ -30,8 +30,7 @@
 ```
 金币 == icon.png
 ```
-图片包下载地址：https://alist.home.cryzy.cn/d/R2/Necesse/necesse_images.zip  
-游戏内翻译对照表：https://drivers.wegame.store/Three/Necesse
+图片包下载地址和游戏内翻译对照表：https://drivers.wegame.store/Three/Necesse
   
 web文件夹下放的都是从官网上抓取的图片，命名和官网一致，但是为了网站的性能，我们更推荐用其他文件夹的图片，没有时再来调用web文件夹的。其他文件夹的文件全为小写且没有连接符“_”
   

@@ -115,7 +115,7 @@
 ![fireresistancepotion](../../../images/items/fireresistancepotion.png) [火焰抗性药水](../../../guides/Items/fireresistancepotion)
 ![fishingpotion](../../../images/items/fishingpotion.png) [钓鱼药水](../../../guides/Items/fishingpotion)
 ![greaterhealthpotion](../../../images/items/greaterhealthpotion.png) [强效生命药水](../../../guides/Items/greaterhealthpotion)
-![combatregenpotion](../../../images/items/combatregenpotion.png) [战斗恢复药水](../../../guides/Items/healthregenpotion)
+![combatregenpotion](../../../images/web/Combat_Regen_Potion_Buff.png) [战斗恢复药水](../../../guides/Items/combatregenpotion)
 ![invisibilitypotion](../../../images/items/invisibilitypotion.png) [隐身药水](../../../guides/Items/invisibilitypotion)
 ![knockbackpotion](../../../images/items/knockbackpotion.png) [击退药水](../../../guides/Items/knockbackpotion)
 ![miningpotion](../../../images/items/miningpotion.png) [采矿药水](../../../guides/Items/miningpotion)

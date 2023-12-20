@@ -10,20 +10,20 @@
 
 | 普通树 | 名称 | 掉落 |
 |-------|--|-----|
-| ![Spruce Tree](../../../images/web/Spruce_Tree.png)  | [云杉树](#云杉树) | ![云杉木](../../../images/Items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) • ![云杉树苗](../../../images/Items/sprucesapling.png) [云杉树苗](../../../guides/Items/sprucesapling.md) |
-| ![Oak Tree](../../../images/web/Oak_Tree.png) |  [橡树](#橡树) | ![橡木](../../../images/Items/oaklog.png) [橡木](../../../guides/Items/oaklog.md) • ![橡树树苗](../../../images/Items/oaksapling.png) [橡树树苗](../../../guides/Items/oaksapling.md) |
-| ![Palm Tree](../../../images/web/Palm_Tree.png)  | [棕榈树](#棕榈树) | ![棕榈木](../../../images/Items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) • ![棕榈树苗](../../../images/Items/palmsapling.png) [棕榈树苗](../../../guides/Items/palmsapling.md) |
-| ![Pine Tree](../../../images/web/Pine_Tree.png)  | [松树](#松树) | ![松木](../../../images/Items/pinelog.png) [松木](../../../guides/Items/pinelog.md) • ![松树树苗](../../../images/Items/pinesapling.png) [松树树苗](../../../guides/Items/pinesapling.md) |
-| ![Willow Tree](../../../images/web/Willow_Tree.png)  | [柳树](#柳树) | ![柳木](../../../images/Items/willowlog.png) [柳木](../../../guides/Items/willowlog.md) • ![柳树树苗](../../../images/Items/willowsapling.png) [柳树树苗](../../../guides/Items/willowsapling.md) |
+| ![Spruce Tree](../../../images/web/Spruce_Tree.png)  | [云杉树](#云杉树) | ![云杉木](../../../images/items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) • ![云杉树苗](../../../images/items/sprucesapling.png) [云杉树苗](../../../guides/Items/sprucesapling.md) |
+| ![Oak Tree](../../../images/web/Oak_Tree.png) |  [橡树](#橡树) | ![橡木](../../../images/items/oaklog.png) [橡木](../../../guides/Items/oaklog.md) • ![橡树树苗](../../../images/items/oaksapling.png) [橡树树苗](../../../guides/Items/oaksapling.md) |
+| ![Palm Tree](../../../images/web/Palm_Tree.png)  | [棕榈树](#棕榈树) | ![棕榈木](../../../images/items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) • ![棕榈树苗](../../../images/items/palmsapling.png) [棕榈树苗](../../../guides/Items/palmsapling.md) |
+| ![Pine Tree](../../../images/web/Pine_Tree.png)  | [松树](#松树) | ![松木](../../../images/items/pinelog.png) [松木](../../../guides/Items/pinelog.md) • ![松树树苗](../../../images/items/pinesapling.png) [松树树苗](../../../guides/Items/pinesapling.md) |
+| ![Willow Tree](../../../images/web/Willow_Tree.png)  | [柳树](#柳树) | ![柳木](../../../images/items/willowlog.png) [柳木](../../../guides/Items/willowlog.md) • ![柳树树苗](../../../images/items/willowsapling.png) [柳树树苗](../../../guides/Items/willowsapling.md) |
 
 ## 果树
 
 | 果树 | 名称 | 掉落 |
 |-------------|--|-----|
-| ![Apple Tree](../../../images/web/Apple_Tree.png)  | [苹果树](#苹果树) | ![云杉木](../../../images/Items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) • ![Apple Sapling](../../../images/Items/applesapling.png) [苹果树苗](../../../guides/Items/applesapling.md) • ![Apple](../../../images/Items/apple.png) [苹果](../../../guides/Items/apple.md) |
-| ![Banana Tree](../../../images/web/Banana_Tree.png)  | [香蕉树](#香蕉树) | ![棕榈木](../../../images/Items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) • ![Banana Sapling](../../../images/Items/bananasapling.png) [香蕉树苗](../../../guides/Items/bananasapling.md) • ![Banana](../../../images/Items/banana.png) [香蕉](../../../guides/Items/banana.md) |
-| ![Coconut Tree](../../../images/web/Coconut_Tree.png)  | [椰子树](#椰子树) | ![棕榈木](../../../images/Items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) • ![Coconut Sapling](../../../images/Items/coconutsapling.png) [椰子树苗](../../../guides/Items/coconutsapling.md) • ![Coconut](../../../images/Items/coconut.png) [椰子](../../../guides/Items/coconut.md) |
-| ![Lemon Tree](../../../images/web/Lemon_Tree.png)  | [柠檬树](柠檬树) | ![云杉木](../../../images/Items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) • ![Lemon Sapling](../../../images/Items/lemonsapling.png) [柠檬树苗](../../../guides/Items/lemonsapling.md) • ![Lemon](../../../images/Items/lemon.png) [柠檬](../../../guides/Items/lemon.md) |
+| ![Apple Tree](../../../images/web/Apple_Tree.png)  | [苹果树](#苹果树) | ![云杉木](../../../images/items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) • ![Apple Sapling](../../../images/items/applesapling.png) [苹果树苗](../../../guides/Items/applesapling.md) • ![Apple](../../../images/items/apple.png) [苹果](../../../guides/Items/apple.md) |
+| ![Banana Tree](../../../images/web/Banana_Tree.png)  | [香蕉树](#香蕉树) | ![棕榈木](../../../images/items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) • ![Banana Sapling](../../../images/items/bananasapling.png) [香蕉树苗](../../../guides/Items/bananasapling.md) • ![Banana](../../../images/items/banana.png) [香蕉](../../../guides/Items/banana.md) |
+| ![Coconut Tree](../../../images/web/Coconut_Tree.png)  | [椰子树](#椰子树) | ![棕榈木](../../../images/items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) • ![Coconut Sapling](../../../images/items/coconutsapling.png) [椰子树苗](../../../guides/Items/coconutsapling.md) • ![Coconut](../../../images/items/coconut.png) [椰子](../../../guides/Items/coconut.md) |
+| ![Lemon Tree](../../../images/web/Lemon_Tree.png)  | [柠檬树](柠檬树) | ![云杉木](../../../images/items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) • ![Lemon Sapling](../../../images/items/lemonsapling.png) [柠檬树苗](../../../guides/Items/lemonsapling.md) • ![Lemon](../../../images/items/lemon.png) [柠檬](../../../guides/Items/lemon.md) |
 
 
 
@@ -33,8 +33,8 @@
 
 | 灌木 | 名称 | 掉落 |
 |------|--|-----|
-| ![Blackberry Bush](../../../images/web/Blackberry_Bush.png)  | [黑莓灌木](#黑莓灌木) | ![Blackberry Bush Sapling](../../../images/web/Blackberry_Bush_Sapling.png) [黑莓灌木苗](../../../guides/Items/blackberrybushsapling.md) • ![Blackberry](../../../images/Items/blackberry.png) [黑莓](../../../guides/Items/blackberry.md) |
-| ![Blueberry Bush](../../../images/web/Blueberry_Bush.png)  | [蓝莓灌木](#蓝莓灌木) | ![Blueberry Bush Sapling](../../../images/web/Blueberry_Bush_Sapling.png) [蓝莓灌木苗](../../../guides/Items/blueberrybushsapling.md) • ![Blueberry](../../../images/Items/blueberry.png) [蓝莓](../../../guides/Items/blueberry.md) |
+| ![Blackberry Bush](../../../images/web/Blackberry_Bush.png)  | [黑莓灌木](#黑莓灌木) | ![Blackberry Bush Sapling](../../../images/web/Blackberry_Bush_Sapling.png) [黑莓灌木苗](../../../guides/Items/blackberrybushsapling.md) • ![Blackberry](../../../images/items/blackberry.png) [黑莓](../../../guides/Items/blackberry.md) |
+| ![Blueberry Bush](../../../images/web/Blueberry_Bush.png)  | [蓝莓灌木](#蓝莓灌木) | ![Blueberry Bush Sapling](../../../images/web/Blueberry_Bush_Sapling.png) [蓝莓灌木苗](../../../guides/Items/blueberrybushsapling.md) • ![Blueberry](../../../images/items/blueberry.png) [蓝莓](../../../guides/Items/blueberry.md) |
 
 ## 花
 花给花种子。 其中大多数可用于药水制作。
@@ -76,8 +76,8 @@
 |-------|------|--------|
 | ![Cactus Plant](../../../images/web/Cactus_Plant.png) | [仙人掌](#仙人掌) | ![Cactus](../../../images/web/Cactus.png) [仙人掌](#仙人掌) |
 | ![Cattail Plant](../../../images/web/Cattail_Plant.png) |  [香蒲](#香蒲) | ![Cattail](../../../images/web/Cattail.png) [香蒲](#香蒲) |
-| ![Grass](../../../images/web/Grass.png) | [草](#草) | ![草籽](../../../images/web/Grass_Seeds.png) [草籽](../../../guides/Items/grassseeds.md)  • ![](*/..../../../images/Items/wormbait.png)[蠕虫鱼饵](../../../guides/Items/wormbait.md)|
-| ![Swamp Grass](../../../images/web/Swamp_Grass.png) | [沼泽草](#沼泽草) | ![Swamp Grass Seeds](../../../images/web/Swamp_Grass_Seeds.png) [沼泽草草籽](../../../guides/Items/swampgrassseeds.md)  • ![](*/..../../../images/Items/swamplarva.png)[沼泽虫鱼饵](../../../guides/Items/swamplarva.md)|
+| ![Grass](../../../images/web/Grass.png) | [草](#草) | ![草籽](../../../images/web/Grass_Seeds.png) [草籽](../../../guides/Items/grassseeds.md)  • ![](*/..../../../images/items/wormbait.png)[蠕虫鱼饵](../../../guides/Items/wormbait.md)|
+| ![Swamp Grass](../../../images/web/Swamp_Grass.png) | [沼泽草](#沼泽草) | ![Swamp Grass Seeds](../../../images/web/Swamp_Grass_Seeds.png) [沼泽草草籽](../../../guides/Items/swampgrassseeds.md)  • ![](*/..../../../images/items/swamplarva.png)[沼泽虫鱼饵](../../../guides/Items/swamplarva.md)|
 | ![Water Grass Plant](../../../images/web/Water_Grass_Plant.png) | [水草](#水草) | ![Water Grass](../../../images/web/Water_Grass.png) [水草](#水草) |
 
 
@@ -86,36 +86,36 @@
 ![Spruce Tree](../../../images/web/Spruce_Tree.png)    
 
 云杉树是一种在森林生物群落中自然生长的植物。 它提供云杉原木和云杉树苗。
-云杉树可以通过在地面上种植![云杉树苗](../../../images/Items/sprucesapling.png) [云杉树苗](../../../guides/Items/sprucesapling.md)来种植。
+云杉树可以通过在地面上种植![云杉树苗](../../../images/items/sprucesapling.png) [云杉树苗](../../../guides/Items/sprucesapling.md)来种植。
 
 ## 橡树
 ![Oak Tree](../../../images/web/Oak_Tree.png)
 
-橡树是一种在森林生物群落中自然生长的植物。 它提供![橡木](../../../images/Items/oaklog.png) [橡木](../../../guides/Items/oaklog.md)和![橡树树苗](../../../images/Items/oaksapling.png) [橡树树苗](../../../guides/Items/oaksapling.md)。
-橡树可以通过在地面上种植![橡树树苗](../../../images/Items/oaksapling.png) [橡树树苗](../../../guides/Items/oaksapling.md)来种植。
+橡树是一种在森林生物群落中自然生长的植物。 它提供![橡木](../../../images/items/oaklog.png) [橡木](../../../guides/Items/oaklog.md)和![橡树树苗](../../../images/items/oaksapling.png) [橡树树苗](../../../guides/Items/oaksapling.md)。
+橡树可以通过在地面上种植![橡树树苗](../../../images/items/oaksapling.png) [橡树树苗](../../../guides/Items/oaksapling.md)来种植。
 
 ## 棕榈树
  ![Palm Tree](../../../images/web/Palm_Tree.png)  
 
-棕榈树是一种在沙漠生物群落中自然生长的植物。 它提供![棕榈木](../../../images/Items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) 和 ![棕榈树苗](../../../images/Items/palmsapling.png) [棕榈树苗](../../../guides/Items/palmsapling.md) 。
-棕榈树可以通过在地面上种植![棕榈树苗](../../../images/Items/palmsapling.png) [棕榈树苗](../../../guides/Items/palmsapling.md) 来种植。
+棕榈树是一种在沙漠生物群落中自然生长的植物。 它提供![棕榈木](../../../images/items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) 和 ![棕榈树苗](../../../images/items/palmsapling.png) [棕榈树苗](../../../guides/Items/palmsapling.md) 。
+棕榈树可以通过在地面上种植![棕榈树苗](../../../images/items/palmsapling.png) [棕榈树苗](../../../guides/Items/palmsapling.md) 来种植。
 
 ## 松树
  ![Pine Tree](../../../images/web/Pine_Tree.png) 
 
-松树是一种在雪原生物群落中自然生长的植物。 它提供![松木](../../../images/Items/pinelog.png) [松木](../../../guides/Items/pinelog.md)和![松树树苗](../../../images/Items/pinesapling.png) [松树树苗](../../../guides/Items/pinesapling.md) 。
-松树可以通过在地面上种植![松树树苗](../../../images/Items/pinesapling.png) [松树树苗](../../../guides/Items/pinesapling.md)来种植。
+松树是一种在雪原生物群落中自然生长的植物。 它提供![松木](../../../images/items/pinelog.png) [松木](../../../guides/Items/pinelog.md)和![松树树苗](../../../images/items/pinesapling.png) [松树树苗](../../../guides/Items/pinesapling.md) 。
+松树可以通过在地面上种植![松树树苗](../../../images/items/pinesapling.png) [松树树苗](../../../guides/Items/pinesapling.md)来种植。
 ## 柳树
  ![Willow Tree](../../../images/web/Willow_Tree.png) 
 
- 柳树是一种在沼泽生物群系中自然生长的植物。 它提供 ![柳木](../../../images/Items/willowlog.png) [柳木](../../../guides/Items/willowlog.md)和![柳树树苗](../../../images/Items/willowsapling.png) [柳树树苗](../../../guides/Items/willowsapling.md) 。
-柳树可以通过在地面上种植![柳树树苗](../../../images/Items/willowsapling.png) [柳树树苗](../../../guides/Items/willowsapling.md) 来种植。
+ 柳树是一种在沼泽生物群系中自然生长的植物。 它提供 ![柳木](../../../images/items/willowlog.png) [柳木](../../../guides/Items/willowlog.md)和![柳树树苗](../../../images/items/willowsapling.png) [柳树树苗](../../../guides/Items/willowsapling.md) 。
+柳树可以通过在地面上种植![柳树树苗](../../../images/items/willowsapling.png) [柳树树苗](../../../guides/Items/willowsapling.md) 来种植。
 
 ## 苹果树
 ![Apple Tree](../../../images/web/Apple_Tree.png)
 
-苹果树是一种在森林生物群落中自然生长的植物。 它提供 ![云杉木](../../../images/Items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) 、 ![Apple Sapling](../../../images/Items/applesapling.png) [苹果树苗](../../../guides/Items/applesapling.md) 和 ![Apple](../../../images/Items/apple.png) [苹果](../../../guides/Items/apple.md)。
-苹果树可以通过在地面上种植![Apple Sapling](../../../images/Items/applesapling.png) [苹果树苗](../../../guides/Items/applesapling.md)来种植。
+苹果树是一种在森林生物群落中自然生长的植物。 它提供 ![云杉木](../../../images/items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) 、 ![Apple Sapling](../../../images/items/applesapling.png) [苹果树苗](../../../guides/Items/applesapling.md) 和 ![Apple](../../../images/items/apple.png) [苹果](../../../guides/Items/apple.md)。
+苹果树可以通过在地面上种植![Apple Sapling](../../../images/items/applesapling.png) [苹果树苗](../../../guides/Items/applesapling.md)来种植。
 
 苹果树有 4 个生长阶段。 每个阶段的生长时间为 15-30 分钟。 每个阶段生产 1.5 个苹果。
 
@@ -123,29 +123,29 @@
 ## 香蕉树
  ![Banana Tree](../../../images/web/Banana_Tree.png) 
 
- 香蕉树可以通过在地形瓷砖上种植![Banana Sapling](../../../images/Items/bananasapling.png) [香蕉树苗](../../../guides/Items/bananasapling.md)来种植。 它提供 ![棕榈木](../../../images/Items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) 、 ![Banana Sapling](../../../images/Items/bananasapling.png) [香蕉树苗](../../../guides/Items/bananasapling.md) 和![Banana](../../../images/Items/banana.png) [香蕉](../../../guides/Items/banana.md) 。
+ 香蕉树可以通过在地形瓷砖上种植![Banana Sapling](../../../images/items/bananasapling.png) [香蕉树苗](../../../guides/Items/bananasapling.md)来种植。 它提供 ![棕榈木](../../../images/items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) 、 ![Banana Sapling](../../../images/items/bananasapling.png) [香蕉树苗](../../../guides/Items/bananasapling.md) 和![Banana](../../../images/items/banana.png) [香蕉](../../../guides/Items/banana.md) 。
 
 ## 椰子树
 ![Coconut Tree](../../../images/web/Coconut_Tree.png) 
 
-椰子树是一种在沙漠生物群落中自然生长的植物。 它提供![棕榈木](../../../images/Items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) 、 ![Coconut Sapling](../../../images/Items/coconutsapling.png) [椰子树苗](../../../guides/Items/coconutsapling.md) 和 ![Coconut](../../../images/Items/coconut.png) [椰子](../../../guides/Items/coconut.md) 。
-椰子树可以通过在地形瓷砖上种植![Coconut Sapling](../../../images/Items/coconutsapling.png) [椰子树苗](../../../guides/Items/coconutsapling.md) 来种植。
+椰子树是一种在沙漠生物群落中自然生长的植物。 它提供![棕榈木](../../../images/items/palmlog.png) [棕榈木](../../../guides/Items/palmlog.md) 、 ![Coconut Sapling](../../../images/items/coconutsapling.png) [椰子树苗](../../../guides/Items/coconutsapling.md) 和 ![Coconut](../../../images/items/coconut.png) [椰子](../../../guides/Items/coconut.md) 。
+椰子树可以通过在地形瓷砖上种植![Coconut Sapling](../../../images/items/coconutsapling.png) [椰子树苗](../../../guides/Items/coconutsapling.md) 来种植。
 
 ## 柠檬树
 ![Lemon Tree](../../../images/web/Lemon_Tree.png)  
 
-柠檬树可以通过在地形瓷砖上种植![Lemon Sapling](../../../images/Items/lemonsapling.png) [柠檬树苗](../../../guides/Items/lemonsapling.md) 来种植。 它提供![云杉木](../../../images/Items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) 、 ![Lemon Sapling](../../../images/Items/lemonsapling.png) [柠檬树苗](../../../guides/Items/lemonsapling.md) 和 ![Lemon](../../../images/Items/lemon.png) [柠檬](../../../guides/Items/lemon.md)。
+柠檬树可以通过在地形瓷砖上种植![Lemon Sapling](../../../images/items/lemonsapling.png) [柠檬树苗](../../../guides/Items/lemonsapling.md) 来种植。 它提供![云杉木](../../../images/items/sprucelog.png) [云杉木](../../../guides/Items/sprucelog.md) 、 ![Lemon Sapling](../../../images/items/lemonsapling.png) [柠檬树苗](../../../guides/Items/lemonsapling.md) 和 ![Lemon](../../../images/items/lemon.png) [柠檬](../../../guides/Items/lemon.md)。
 
 ## 黑莓灌木
  ![Blackberry Bush](../../../images/web/Blackberry_Bush.png)  
  
 
-黑莓灌木是一种在雪原生物群落中自然生长的植物。 它提供  ![Blackberry Bush Sapling](../../../images/web/Blackberry_Bush_Sapling.png) [黑莓灌木苗](../../../guides/Items/blackberrybushsapling.md) 和 ![Blackberry](../../../images/Items/blackberry.png) [黑莓](../../../guides/Items/blackberry.md) 。
+黑莓灌木是一种在雪原生物群落中自然生长的植物。 它提供  ![Blackberry Bush Sapling](../../../images/web/Blackberry_Bush_Sapling.png) [黑莓灌木苗](../../../guides/Items/blackberrybushsapling.md) 和 ![Blackberry](../../../images/items/blackberry.png) [黑莓](../../../guides/Items/blackberry.md) 。
 黑莓灌木可以通过在地形瓷砖上种植![Blackberry Bush Sapling](../../../images/web/Blackberry_Bush_Sapling.png) [黑莓灌木苗](../../../guides/Items/blackberrybushsapling.md) 来种植。
 ## 蓝莓灌木
  ![Blueberry Bush](../../../images/web/Blueberry_Bush.png)  
 
-蓝莓灌木是一种在森林生物群落中自然生长的植物。 它提供[蓝莓灌木](#蓝莓灌木) | ![Blueberry Bush Sapling](../../../images/web/Blueberry_Bush_Sapling.png) [蓝莓灌木苗](../../../guides/Items/blueberrybushsapling.md) 和 ![Blueberry](../../../images/Items/blueberry.png) [蓝莓](../../../guides/Items/blueberry.md)。
+蓝莓灌木是一种在森林生物群落中自然生长的植物。 它提供[蓝莓灌木](#蓝莓灌木) | ![Blueberry Bush Sapling](../../../images/web/Blueberry_Bush_Sapling.png) [蓝莓灌木苗](../../../guides/Items/blueberrybushsapling.md) 和 ![Blueberry](../../../images/items/blueberry.png) [蓝莓](../../../guides/Items/blueberry.md)。
 蓝莓丛可以通过在地形瓷砖上种植[蓝莓灌木](#蓝莓灌木) | ![Blueberry Bush Sapling](../../../images/web/Blueberry_Bush_Sapling.png) [蓝莓灌木苗](../../../guides/Items/blueberrybushsapling.md)来种植。
 
 ## 野生洞穴辉光
