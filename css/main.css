@@ -1,11 +1,12 @@
 /* 主题设置 */
 :root {
-    --link-color: blue;
     /* 未访问的链接颜色 */
-    --link-color--hover: darkblue;
+    --link-color: blue;
     /* 鼠标悬停时的链接颜色 */
+    --link-color--hover: red;
+    /* 鼠标点击时的链接颜色 */
     --link-color--active: red;
-    /* 鼠标点击时的链接颜色（可选） */
+    
     /* 超链接文本装饰 */
     --link-text-decoration: none;
     --link-text-decoration--hover: none;
