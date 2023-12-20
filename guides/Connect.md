@@ -1,7 +1,7 @@
 # 联机工具与方法
 
 ### <h3 id="0">RadminLan联机：</h3>
-<font color=blue>大佬请直接看 “加入网络”（第4步）</font> 
+<font color=blue>大佬请直接看 “加入网络”（第5步）</font> 
 
 - [联机工具与方法](#联机工具与方法)
     - [RadminLan联机：](#radminlan联机)
@@ -12,19 +12,19 @@
 
 #### 准备联机工具  
 <font color=red>**1、**</font>群文件内下载 Radmin_LAN  
-RadminLan官网地址[https://www.radmin-lan.cn/](https://www.radmin-lan.cn/)  
+RadminLan官网地址：[https://www.radmin-lan.cn/](https://www.radmin-lan.cn/)  
 <font color=red>**2、**</font>双击安装Radmin_LAN，全部默认一路下一步  
   
 #### 准备客户端
 <font color=red>**3、**</font>订阅mod或者修改器等
 
 #### 创建网络
-首次登录点击圆形的红色图标off 变为 蓝色on 注册，注册时间在1-10分钟不等，请耐心等待
+<font color=red>**4、**</font>首次登录点击圆形的红色图标off 变为 蓝色on 注册，注册时间在1-10分钟不等，请耐心等待
 点击<网络> - <创建网络> - <私人網絡>   输入“网络名”、”密码“
 
 #### 加入网络  
 
-<font color=red>**4、**</font>在等待过程中你可以打开Radmin LAN  
+<font color=red>**5、**</font>在等待过程中你可以打开Radmin LAN  
 ① 点击<系统> - <更改名称> 修改你的昵称
 ② 点击<网络> - <加入网络> - <私人網絡>   
 ```
