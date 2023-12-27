@@ -76,6 +76,7 @@ app_update 1169370 validate
 ### 配置服务器
 这里选择存档（第一次开启会创建时间，你可以把你自己的存档放[存档目录](/guides/Server.md#windows文件位置)）  
 <font color=red>端口范围在1-65525之间，建议10000以上的端口，不要用一千以内的端口。</font>  
+```开放对于UDP协议的端口```
 Custom server option  选N就会按照上次运行的配置运行  
   
 ![Necesse Dedicated Server](../images/Server/4.png)
@@ -224,7 +225,7 @@ EOL
 
 例子：``` ./StartServer-nogui.sh -world SaveGame1```
 ### 端口
-默认端口为：```14159```
+默认端口为：```UDP协议14159```
 
 您需要进行端口转发并找到您的 IP 地址以提供给朋友。
 
