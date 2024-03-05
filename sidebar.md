@@ -25,6 +25,7 @@
 * 其他
   * [成就](/guides/Others/Achievement)
   * [公益服务器](/guides/FreeServer)
+  * [更新日志](/guides/Update.md)
 * [加入我们](/guides/Join)
 * [致谢](/Thanks)
 * 交流
